@@ -8,11 +8,12 @@
     "keywords": [
       "navigation",
       "toc",
-      "claims ledger"
+      "claims ledger",
+      "source posture"
     ],
     "summary": [
       "Landing page for humans and LLMs.",
-      "Explains the public pages, source files, and internal claim markers."
+      "Explains the public pages, source files, internal claim markers, and the dossier's source posture."
     ],
     "related": "[]",
     "url": "00-start-here.html"
@@ -28,11 +29,12 @@
       "DEI rollback",
       "ESG",
       "tariffs",
-      "censorship network"
+      "censorship network",
+      "legacy media"
     ],
     "summary": [
-      "Sets the current political frame and replaces informal shorthand with cleaner wording.",
-      "Defines the dossier's three recurring layers: narrative control, the money layer, and demographic lock-in."
+      "Sets the political frame without the informal shorthand of the earlier build.",
+      "Restores the dossier's direct warning that legacy-media and platform consensus are not neutral referees."
     ],
     "related": [
       "01-system-logic",
@@ -55,12 +57,12 @@
       "bureaucratic dependency"
     ],
     "summary": [
-      "Uses the agenda paper as the conceptual backbone, but keeps it proportionate.",
-      "Frames the broader pattern as a sequence rather than a pile of unrelated disputes."
+      "Uses the agenda paper as the conceptual backbone and restores its strongest concrete points.",
+      "Frames the broader pattern as a sequence with institutional receipts, not as a pile of disconnected disputes."
     ],
     "related": [
+      "04-compliance-network",
       "05-manufactured-outrage",
-      "06-protected-categories",
       "08-immigration-clientelism"
     ],
     "url": "01-system-logic.html"
@@ -74,13 +76,14 @@
     "keywords": [
       "elite factions",
       "WEF",
+      "Davos",
       "America First",
       "Wall Street",
       "offshoring"
     ],
     "summary": [
-      "Keeps the dossier away from cartoon single-cabal framing.",
-      "Distinguishes the Davos-style bloc from the nationalist and resource-capital bloc."
+      "Restores the dossier's direct factional framing: Davos-ESG-DEI versus America First and resource-capital.",
+      "Explains why ownership, media, and policy alignment do not require a single all-powerful cabal."
     ],
     "related": [
       "03-ownership-layer",
@@ -94,17 +97,18 @@
     "order": "000400",
     "number": "3",
     "level": 1,
-    "title": "Ownership and governance layers",
+    "title": "Ownership layer: Big Three and legacy media",
     "keywords": [
       "Big Three",
       "BlackRock",
       "Vanguard",
       "State Street",
-      "media ownership"
+      "media ownership",
+      "legacy media"
     ],
     "summary": [
-      "Explains the ownership layer without pretending it is day-to-day editorial control.",
-      "Keeps the distinction between equity concentration and direct newsroom command."
+      "Restores the dossier's direct ownership framing while keeping the distinction between ownership influence and day-to-day editorial control.",
+      "Names the major media parents and the governance layer that sits above them."
     ],
     "related": [
       "04-compliance-network",
@@ -117,17 +121,18 @@
     "order": "000500",
     "number": "4",
     "level": 1,
-    "title": "The compliance network beyond ownership",
+    "title": "The censorship and compliance network beyond ownership",
     "keywords": [
       "TNI",
       "EIP",
+      "Virality Project",
       "DFRLab",
       "IFCN",
       "GARM"
     ],
     "summary": [
-      "Maps the regulation, NGO, advertiser, and platform stack beyond formal ownership.",
-      "Treats the network as a compliance regime rather than a single command center."
+      "Restores the named censorship stack in full: TNI, EIP, DFRLab, IFCN, GARM, regulators, and platform policy.",
+      "Frames legacy media as participants in a coordinated compliance regime, not neutral observers of it."
     ],
     "related": [
       "05-manufactured-outrage",
@@ -146,17 +151,17 @@
       "Smollett",
       "Covington",
       "Duke lacrosse",
-      "media panic",
-      "moral panic"
+      "mass graves",
+      "media panic"
     ],
     "summary": [
-      "Integrates the manufactured-outage paper as a narrative-control case study.",
-      "Shows how selective amplification and muted correction shape public memory."
+      "Turns the manufactured-outrage paper into a full case-study section instead of a short nod.",
+      "Shows how useful narratives are amplified fast, then corrected quietly after the damage is done."
     ],
     "related": [
       "04-compliance-network",
       "06-protected-categories",
-      "08-immigration-clientelism"
+      "10-second-term-pressure-points"
     ],
     "url": "05-manufactured-outrage.html"
   },
@@ -173,8 +178,8 @@
       "institutional enforcement"
     ],
     "summary": [
-      "Compresses the trans and white-discrimination receipts into one proportionate section.",
-      "Keeps the claim narrow: real institutional enforcement existed."
+      "Expands the trans and white-discrimination receipts instead of compressing them into a light overview.",
+      "Keeps the point narrow and concrete: real institutional enforcement existed, and courts often had to step in."
     ],
     "related": [
       "01-system-logic",
@@ -187,17 +192,17 @@
     "order": "000800",
     "number": "7",
     "level": 1,
-    "title": "The money layer: NGOs, fraud exposure, and protest infrastructure",
+    "title": "The money layer: NGOs, dark-money surfaces, and managed activism",
     "keywords": [
       "NGOs",
-      "DOGE",
-      "astroturf",
-      "protests",
-      "funding"
+      "dark money",
+      "Tides",
+      "Soros",
+      "The People's Forum"
     ],
     "summary": [
-      "Connects bureaucratic dependency to NGOs, contractors, and professional activism.",
-      "Uses the Nate Friedman source note proportionately, not as a total explanation."
+      "Upgrades the NGO section into a fuller map of funded activism, bail support, and propaganda-adjacent surfaces.",
+      "Connects the spending layer to the narrative-control layer instead of treating them as separate worlds."
     ],
     "related": [
       "04-compliance-network",
@@ -220,8 +225,8 @@
       "LMIA"
     ],
     "summary": [
-      "Uses the Canada intake paper as the main concrete case study.",
-      "Connects demographic management to weak front-end controls and expanding intermediary layers."
+      "Uses the Canada intake paper as a full case study instead of a light example.",
+      "Restores the dossier's direct claim that permissive growth came first and visible damage control came later."
     ],
     "related": [
       "01-system-logic",
@@ -243,8 +248,8 @@
       "USMCA"
     ],
     "summary": [
-      "Integrates the Canada tariff paper without turning the whole dossier into a trade memo.",
-      "Keeps the point simple: Canada entered the conflict from a weaker position."
+      "Keeps the tariff paper proportionate while restoring the strongest claims and evidence.",
+      "Frames tariffs as one of the clearest external pressure tools used by the second-term Trump administration."
     ],
     "related": [
       "02-elite-factions",
@@ -263,11 +268,13 @@
       "DEI rollback",
       "energy",
       "tariffs",
-      "DOGE"
+      "DOGE",
+      "ICE",
+      "Charlie Kirk"
     ],
     "summary": [
-      "Converts the old informal Trump section into a more serious pressure-point map.",
-      "Focuses on concrete pillars rather than vibes."
+      "Restores the original dossier's pressure-point map and its vivid real-world harm examples.",
+      "Keeps the events factual while treating the surrounding narrative climate as part of the dossier's analysis."
     ],
     "related": [
       "00-political-context",
@@ -309,11 +316,12 @@
       "summary",
       "compliance stack",
       "clientelism",
-      "Trump second term"
+      "Trump second term",
+      "legacy media"
     ],
     "summary": [
-      "One-pass compression of the rebuilt dossier.",
-      "States the thesis without the informal language of the old version."
+      "One-pass compression of the rebuilt dossier with the sharper framing restored.",
+      "Ends with a direct caution against treating legacy media as neutral referees."
     ],
     "related": "[]",
     "url": "12-summary.html"

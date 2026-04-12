@@ -20,8 +20,152 @@
     "note": ""
   },
   {
+    "id": "C-01-system-logic-001",
+    "text": "The Human Rights Campaign's 2025 Corporate Equality Index criteria explicitly awarded points for sexual-orientation and gender-identity protections, same-sex domestic-partner parity, transgender-inclusive health coverage, pronoun-sharing policies, LGBTQ+ employee groups, LGBTQ+ supplier diversity, LGBTQ+ marketing, and demonstrated public advocacy.",
+    "evidence": "- https://hrc-prod-requests.s3-us-west-2.amazonaws.com/CEI-2025-Scoring-Criteria.pdf",
+    "evidence_count": 1,
+    "links": [
+      "https://hrc-prod-requests.s3-us-west-2.amazonaws.com/CEI-2025-Scoring-Criteria.pdf"
+    ],
+    "section_id": "01-system-logic",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "url": "01-system-logic.html",
+    "line": 70,
+    "date": "2025-01-01",
+    "date_raw": "",
+    "title": "HRC CEI criteria operationalized protected-identity compliance inside firms",
+    "tags": [
+      "hrc",
+      "cei",
+      "lgbt",
+      "compliance",
+      "corporations"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-01-system-logic-002",
+    "text": "The Human Rights Campaign's 2026 CEI reporting page said Fortune 500 participation fell by 65%, from 377 companies in 2025 to 131 in 2026, which shows both that the architecture was real and that retreat from it became measurable under pressure.",
+    "evidence": "- https://reports.hrc.org/corporate-equality-index-2026",
+    "evidence_count": 1,
+    "links": [
+      "https://reports.hrc.org/corporate-equality-index-2026"
+    ],
+    "section_id": "01-system-logic",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "url": "01-system-logic.html",
+    "line": 77,
+    "date": "2026-01-01",
+    "date_raw": "",
+    "title": "HRC reported a 65 percent collapse in Fortune 500 participation",
+    "tags": [
+      "hrc",
+      "cei",
+      "retreat",
+      "corporations"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-01-system-logic-003",
+    "text": "The UN Standards of Conduct for Business and the WEF-linked Partnership for Global LGBTI Equality both pushed firms beyond internal HR policy and toward public advocacy and supply-chain enforcement.",
+    "evidence": "- https://www.ohchr.org/en/sexual-orientation-and-gender-identity/tackling-discrimination-against-lgbti-people-private-sector-standards-conduct-business\n- https://www.weforum.org/projects/accelerating-lgbti-inclusion-initiative/",
+    "evidence_count": 2,
+    "links": [
+      "https://www.ohchr.org/en/sexual-orientation-and-gender-identity/tackling-discrimination-against-lgbti-people-private-sector-standards-conduct-business",
+      "https://www.weforum.org/projects/accelerating-lgbti-inclusion-initiative/"
+    ],
+    "section_id": "01-system-logic",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "url": "01-system-logic.html",
+    "line": 84,
+    "date": "2026-01-01",
+    "date_raw": "",
+    "title": "OHCHR and WEF-linked initiatives treated identity compliance as business governance",
+    "tags": [
+      "ohchr",
+      "wef",
+      "pgle",
+      "business",
+      "governance"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-01-system-logic-004",
+    "text": "Gallup reported U.S. trust in media at 28% in October 2025, and FIRE reported faculty censorship hitting a record high in early 2026.",
+    "evidence": "- https://news.gallup.com/poll/695762/trust-media-new-low.aspx\n- https://expression.fire.org/p/faculty-censorship-hits-record-high",
+    "evidence_count": 2,
+    "links": [
+      "https://news.gallup.com/poll/695762/trust-media-new-low.aspx",
+      "https://expression.fire.org/p/faculty-censorship-hits-record-high"
+    ],
+    "section_id": "01-system-logic",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "url": "01-system-logic.html",
+    "line": 92,
+    "date": "2025-10-02",
+    "date_raw": "",
+    "title": "Trust in media and censorship data both moved in the same bad direction",
+    "tags": [
+      "gallup",
+      "fire",
+      "media",
+      "censorship"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-01-system-logic-005",
+    "text": "Statistics Canada reported a record-low total fertility rate of 1.25 in 2024, while the average age of mothers at childbirth reached a record 31.8 years.",
+    "evidence": "- https://www150.statcan.gc.ca/n1/daily-quotidien/250924/dq250924d-eng.htm\n- https://www150.statcan.gc.ca/n1/daily-quotidien/260126/dq260126a-eng.htm",
+    "evidence_count": 2,
+    "links": [
+      "https://www150.statcan.gc.ca/n1/daily-quotidien/250924/dq250924d-eng.htm",
+      "https://www150.statcan.gc.ca/n1/daily-quotidien/260126/dq260126a-eng.htm"
+    ],
+    "section_id": "01-system-logic",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "url": "01-system-logic.html",
+    "line": 100,
+    "date": "2025-09-24",
+    "date_raw": "",
+    "title": "Canada's fertility rate fell to record lows",
+    "tags": [
+      "fertility",
+      "canada",
+      "demographics"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-02-elite-factions-001",
+    "text": "The World Economic Forum's own governance pages identify Larry Fink as Interim Co-Chair of the Forum, which is one of the clearest documented overlaps between the WEF governance layer and the BlackRock ownership layer.",
+    "evidence": "- https://www.weforum.org/about/leadership-and-governance\n- https://www.weforum.org/communities/board-of-trustees/\n- https://www.weforum.org/press/2025/08/statement-from-interim-co-chairs-of-the-world-economic-forum/",
+    "evidence_count": 3,
+    "links": [
+      "https://www.weforum.org/about/leadership-and-governance",
+      "https://www.weforum.org/communities/board-of-trustees/",
+      "https://www.weforum.org/press/2025/08/statement-from-interim-co-chairs-of-the-world-economic-forum/"
+    ],
+    "section_id": "02-elite-factions",
+    "section_label": "2. Elite factions inside one shared system",
+    "url": "02-elite-factions.html",
+    "line": 136,
+    "date": "2026-02-26",
+    "date_raw": "",
+    "title": "Larry Fink is listed as WEF interim co-chair",
+    "tags": [
+      "wef",
+      "larry-fink",
+      "blackrock",
+      "governance"
+    ],
+    "note": ""
+  },
+  {
     "id": "C-03-ownership-layer-001",
-    "text": "The Big Three in this dossier means BlackRock, Vanguard, and State Street. They repeatedly appear as major institutional holders across large public companies, including major media parents.",
+    "text": "The Big Three in this dossier means **BlackRock, Vanguard, and State Street**. They repeatedly appear as major institutional holders across large public companies, including major media parents.",
     "evidence": "- https://corpgov.law.harvard.edu/2019/06/14/the-big-three-power-and-why-it-matters/\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=102909&type=13F-HR&count=40&owner=exclude\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1364742&type=13F-HR&count=40&owner=exclude\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=93751&type=13F-HR&count=40&owner=exclude",
     "evidence_count": 4,
     "links": [
@@ -31,9 +175,9 @@
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=93751&type=13F-HR&count=40&owner=exclude"
     ],
     "section_id": "03-ownership-layer",
-    "section_label": "3. Ownership and governance layers",
+    "section_label": "3. Ownership layer: Big Three and legacy media",
     "url": "03-ownership-layer.html",
-    "line": 70,
+    "line": 157,
     "date": "",
     "date_raw": "",
     "title": "",
@@ -41,8 +185,59 @@
     "note": ""
   },
   {
+    "id": "C-03-ownership-layer-002",
+    "text": "Each of those companies can be audited through SEC proxy statements and 13G filings, where the Big Three repeatedly show up as major institutional holders.",
+    "evidence": "- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1166691&type=DEF%2014A&count=40&owner=exclude\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1744489&type=DEF%2014A&count=40&owner=exclude\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=DEF%2014A&count=40&owner=exclude\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1754301&type=DEF%2014A&count=40&owner=exclude\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=912752&type=DEF%2014A&count=40&owner=exclude",
+    "evidence_count": 5,
+    "links": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1166691&type=DEF%2014A&count=40&owner=exclude",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1744489&type=DEF%2014A&count=40&owner=exclude",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1437107&type=DEF%2014A&count=40&owner=exclude",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1754301&type=DEF%2014A&count=40&owner=exclude",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=912752&type=DEF%2014A&count=40&owner=exclude"
+    ],
+    "section_id": "03-ownership-layer",
+    "section_label": "3. Ownership layer: Big Three and legacy media",
+    "url": "03-ownership-layer.html",
+    "line": 171,
+    "date": "",
+    "date_raw": "",
+    "title": "Major media parents can be checked directly through SEC ownership disclosures",
+    "tags": [
+      "sec",
+      "media",
+      "ownership",
+      "big-three"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-03-ownership-layer-003",
+    "text": "Fox is the best reminder that ownership influence is not the same thing as direct command. The Murdoch structure preserves control through dual-class shares even while large institutions still hold major economic stakes.",
+    "evidence": "- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1754301&type=DEF%2014A&count=40&owner=exclude\n- https://corpgov.law.harvard.edu/2019/06/14/the-big-three-power-and-why-it-matters/",
+    "evidence_count": 2,
+    "links": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1754301&type=DEF%2014A&count=40&owner=exclude",
+      "https://corpgov.law.harvard.edu/2019/06/14/the-big-three-power-and-why-it-matters/"
+    ],
+    "section_id": "03-ownership-layer",
+    "section_label": "3. Ownership layer: Big Three and legacy media",
+    "url": "03-ownership-layer.html",
+    "line": 181,
+    "date": "",
+    "date_raw": "",
+    "title": "Dual-class shares can preserve control even with large institutional ownership",
+    "tags": [
+      "fox",
+      "murdoch",
+      "control",
+      "governance"
+    ],
+    "note": ""
+  },
+  {
     "id": "C-04-compliance-network-001",
-    "text": "The Trusted News Initiative is one of the cleanest coordination nodes because it was publicly described as a cross-organization partnership against election and later vaccine disinformation, and the U.S. Department of Justice later warned in antitrust litigation that coordinated viewpoint suppression can raise competition issues in the marketplace of ideas.",
+    "text": "The Trusted News Initiative is one of the cleanest coordination nodes because it was publicly described as a cross-organization partnership targeting election and later vaccine disinformation, and the U.S. Department of Justice later warned in antitrust litigation that coordinated viewpoint suppression can raise competition issues in the marketplace of ideas.",
     "evidence": "- https://www.ebu.ch/news/2020/07/trusted-news-initiative-steps-up-global-fight-against-disinformation-and-targets-us-presidential-election\n- https://www.ebu.ch/news/2020/12/trusted-news-initiative-to-combat-spread-of-harmful-vaccine-disinformation\n- https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas",
     "evidence_count": 3,
     "links": [
@@ -51,19 +246,887 @@
       "https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas"
     ],
     "section_id": "04-compliance-network",
-    "section_label": "4. The compliance network beyond ownership",
+    "section_label": "4. The censorship and compliance network beyond ownership",
     "url": "04-compliance-network.html",
-    "line": 96,
+    "line": 207,
     "date": "2020-07-13",
     "date_raw": "",
-    "title": "Public launch framing for TNI election coordination",
+    "title": "TNI publicly described itself as a coordination node and later drew DOJ antitrust scrutiny",
     "tags": [
       "tni",
       "coordination",
       "election",
-      "disinformation"
+      "vaccine",
+      "antitrust"
     ],
     "note": "The point here is public self-description plus later antitrust attention, not proof of every allegation in the underlying suit."
+  },
+  {
+    "id": "C-04-compliance-network-002",
+    "text": "The Election Integrity Partnership's final-report pages describe EIP as a coalition of Stanford Internet Observatory, the University of Washington's Center for an Informed Public, Graphika, and the Atlantic Council's DFRLab.",
+    "evidence": "- https://www.cip.uw.edu/2021/03/02/election-integrity-partnership-final-report-long-fuse/\n- https://ischool.uw.edu/news/2021/03/election-integrity-partnership-releases-final-report-mis-and-disinformation",
+    "evidence_count": 2,
+    "links": [
+      "https://www.cip.uw.edu/2021/03/02/election-integrity-partnership-final-report-long-fuse/",
+      "https://ischool.uw.edu/news/2021/03/election-integrity-partnership-releases-final-report-mis-and-disinformation"
+    ],
+    "section_id": "04-compliance-network",
+    "section_label": "4. The censorship and compliance network beyond ownership",
+    "url": "04-compliance-network.html",
+    "line": 221,
+    "date": "2021-03-02",
+    "date_raw": "",
+    "title": "EIP formally linked Stanford, UW, Graphika, and DFRLab",
+    "tags": [
+      "eip",
+      "stanford",
+      "dfrlab",
+      "graphika",
+      "misinformation"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-04-compliance-network-003",
+    "text": "The Atlantic Council announced its DFRLab partnership with Facebook to help monitor disinformation in elections, which means a NATO-aligned think tank was plugged directly into a dominant platform's election-integrity machinery.",
+    "evidence": "- https://www.atlanticcouncil.org/news/press-releases/atlantic-councils-digital-forensic-research-lab-partners-with-facebook/\n- https://www.atlanticcouncil.org/commentary/article/why-were-partnering-with-facebook-on-election-integrity/\n- https://www.atlanticcouncil.org/our-programs/dfrlab/",
+    "evidence_count": 3,
+    "links": [
+      "https://www.atlanticcouncil.org/news/press-releases/atlantic-councils-digital-forensic-research-lab-partners-with-facebook/",
+      "https://www.atlanticcouncil.org/commentary/article/why-were-partnering-with-facebook-on-election-integrity/",
+      "https://www.atlanticcouncil.org/our-programs/dfrlab/"
+    ],
+    "section_id": "04-compliance-network",
+    "section_label": "4. The censorship and compliance network beyond ownership",
+    "url": "04-compliance-network.html",
+    "line": 229,
+    "date": "2018-05-17",
+    "date_raw": "",
+    "title": "Atlantic Council announced Facebook partnership through DFRLab",
+    "tags": [
+      "facebook",
+      "atlantic-council",
+      "dfrlab",
+      "elections"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-04-compliance-network-004",
+    "text": "Facebook's third-party fact-checking program relied on IFCN-certified organizations, and Poynter's own materials confirmed that IFCN signatory status was a minimum condition for verification on the platform.",
+    "evidence": "- https://about.fb.com/news/2019/06/inside-feed-full-fact-interview/\n- https://www.poynter.org/fact-checking/2016/facebook-has-a-plan-to-fight-fake-news-heres-where-we-come-in/\n- https://www.ifcncodeofprinciples.poynter.org/signatories",
+    "evidence_count": 3,
+    "links": [
+      "https://about.fb.com/news/2019/06/inside-feed-full-fact-interview/",
+      "https://www.poynter.org/fact-checking/2016/facebook-has-a-plan-to-fight-fake-news-heres-where-we-come-in/",
+      "https://www.ifcncodeofprinciples.poynter.org/signatories"
+    ],
+    "section_id": "04-compliance-network",
+    "section_label": "4. The censorship and compliance network beyond ownership",
+    "url": "04-compliance-network.html",
+    "line": 240,
+    "date": "",
+    "date_raw": "",
+    "title": "IFCN served as a gateway into platform fact-checking enforcement",
+    "tags": [
+      "ifcn",
+      "poynter",
+      "facebook",
+      "meta",
+      "fact-checking"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-04-compliance-network-005",
+    "text": "The World Federation of Advertisers described GARM as a system to reduce the availability and monetization of harmful content, and its June 2022 framework added misinformation as a monetization-sensitive category.",
+    "evidence": "- https://wb01.wfanet.org/knowledge/item/2022/06/17/GARM-Brand-Safety-Floor--Suitability-Framework-3.html\n- https://wb01.wfanet.org/GARMadjacency.html\n- https://wb01.wfanet.org/knowledge/item/2022/06/17/GARM-Brand-Safety-Floor--Suitability-Framework-3",
+    "evidence_count": 3,
+    "links": [
+      "https://wb01.wfanet.org/knowledge/item/2022/06/17/GARM-Brand-Safety-Floor--Suitability-Framework-3.html",
+      "https://wb01.wfanet.org/GARMadjacency.html",
+      "https://wb01.wfanet.org/knowledge/item/2022/06/17/GARM-Brand-Safety-Floor--Suitability-Framework-3"
+    ],
+    "section_id": "04-compliance-network",
+    "section_label": "4. The censorship and compliance network beyond ownership",
+    "url": "04-compliance-network.html",
+    "line": 252,
+    "date": "2022-06-17",
+    "date_raw": "",
+    "title": "GARM standardized harmful-content and monetization categories across the ad ecosystem",
+    "tags": [
+      "garm",
+      "wfa",
+      "advertisers",
+      "monetization",
+      "misinformation"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-05-manufactured-outrage-001",
+    "text": "The Jussie Smollett case turned an invented hate-crime story into a national morality play before trial evidence showed he had paid acquaintances to stage the attack.",
+    "evidence": "- https://unherd.com/2021/12/how-jussie-smolletts-hoax-unravelled/",
+    "evidence_count": 1,
+    "links": [
+      "https://unherd.com/2021/12/how-jussie-smolletts-hoax-unravelled/"
+    ],
+    "section_id": "05-manufactured-outrage",
+    "section_label": "5. Manufactured outrage and narrative laundering",
+    "url": "05-manufactured-outrage.html",
+    "line": 288,
+    "date": "",
+    "date_raw": "",
+    "title": "Smollett showed how fast a useful hate-crime story can outrun verification",
+    "tags": [
+      "smollett",
+      "hate-crime-hoax",
+      "media"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-05-manufactured-outrage-002",
+    "text": "The Covington Catholic case showed the same thing in miniature: a misleading clip, immediate racist framing, and much quieter correction after fuller footage showed the students had been misrepresented.",
+    "evidence": "- https://reason.com/2019/01/21/covington-catholic-high-school-media/",
+    "evidence_count": 1,
+    "links": [
+      "https://reason.com/2019/01/21/covington-catholic-high-school-media/"
+    ],
+    "section_id": "05-manufactured-outrage",
+    "section_label": "5. Manufactured outrage and narrative laundering",
+    "url": "05-manufactured-outrage.html",
+    "line": 294,
+    "date": "",
+    "date_raw": "",
+    "title": "Covington Catholic became a template for clip-based moral indictment",
+    "tags": [
+      "covington",
+      "media",
+      "outrage"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-05-manufactured-outrage-003",
+    "text": "The \"Hands up, don't shoot\" narrative outlived the DOJ findings that witness accounts behind it were unreliable and unsupported by the physical record.",
+    "evidence": "- https://www.stlpr.org/government-politics-issues/2015-03-24/why-did-the-justice-department-conclude-that-hands-up-dont-shoot-was-a-myth",
+    "evidence_count": 1,
+    "links": [
+      "https://www.stlpr.org/government-politics-issues/2015-03-24/why-did-the-justice-department-conclude-that-hands-up-dont-shoot-was-a-myth"
+    ],
+    "section_id": "05-manufactured-outrage",
+    "section_label": "5. Manufactured outrage and narrative laundering",
+    "url": "05-manufactured-outrage.html",
+    "line": 300,
+    "date": "",
+    "date_raw": "",
+    "title": "Ferguson showed how a slogan can survive its evidentiary collapse",
+    "tags": [
+      "ferguson",
+      "doj",
+      "narrative-laundering"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-05-manufactured-outrage-004",
+    "text": "The Bubba Wallace \"noose\" story became international news even though the FBI concluded it was a garage-door pull rope that had been in the stall since the prior year and was not directed at Wallace.",
+    "evidence": "- https://www.espn.com/racing/nascar/story/_/id/29354447/fbi-says-rope-had-talladega-garage-last-fall-bubba-wallace-not-victim-hate-crime",
+    "evidence_count": 1,
+    "links": [
+      "https://www.espn.com/racing/nascar/story/_/id/29354447/fbi-says-rope-had-talladega-garage-last-fall-bubba-wallace-not-victim-hate-crime"
+    ],
+    "section_id": "05-manufactured-outrage",
+    "section_label": "5. Manufactured outrage and narrative laundering",
+    "url": "05-manufactured-outrage.html",
+    "line": 306,
+    "date": "",
+    "date_raw": "",
+    "title": "Bubba Wallace showed how symbolic-racism stories get global reach before basic context",
+    "tags": [
+      "nascar",
+      "bubba-wallace",
+      "media"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-05-manufactured-outrage-005",
+    "text": "Police said the Atlanta spa shooter blamed the spas for his sex addiction and said the attacks were not racially motivated, yet the anti-Asian-hate framing spread faster and farther than the correction.",
+    "evidence": "- https://www.courthousenews.com/atlanta-area-shootings-leave-8-dead-many-of-asian-descent/",
+    "evidence_count": 1,
+    "links": [
+      "https://www.courthousenews.com/atlanta-area-shootings-leave-8-dead-many-of-asian-descent/"
+    ],
+    "section_id": "05-manufactured-outrage",
+    "section_label": "5. Manufactured outrage and narrative laundering",
+    "url": "05-manufactured-outrage.html",
+    "line": 312,
+    "date": "",
+    "date_raw": "",
+    "title": "Atlanta spa coverage locked onto a racial script before the facts supported it",
+    "tags": [
+      "atlanta-spa",
+      "anti-asian-hate",
+      "media"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-05-manufactured-outrage-006",
+    "text": "The Nashville Christian-school attack produced selective omission: reporting highlighted the victims and community response while some outlets downplayed the shooter's transgender identity even though that detail would almost certainly have been foregrounded if the ideological roles were reversed.",
+    "evidence": "- https://www.christianpost.com/news/cbs-told-staff-not-to-report-christian-school-shooter-was-transgender.html",
+    "evidence_count": 1,
+    "links": [
+      "https://www.christianpost.com/news/cbs-told-staff-not-to-report-christian-school-shooter-was-transgender.html"
+    ],
+    "section_id": "05-manufactured-outrage",
+    "section_label": "5. Manufactured outrage and narrative laundering",
+    "url": "05-manufactured-outrage.html",
+    "line": 318,
+    "date": "",
+    "date_raw": "",
+    "title": "Nashville coverage showed asymmetric identity emphasis",
+    "tags": [
+      "nashville",
+      "trans",
+      "media",
+      "asymmetry"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-05-manufactured-outrage-007",
+    "text": "Rolling Stone's UVA rape story and the Duke lacrosse case both showed how moral panic, institutional appetite, and media appetite can outrun basic verification and leave innocent targets carrying the social stain long after collapse.",
+    "evidence": "- https://www.pbs.org/newshour/nation/highly-anticipated-review-rolling-stone-campus-rape-story-released\n- https://today.duke.edu/showcase/lacrosseincident/",
+    "evidence_count": 2,
+    "links": [
+      "https://www.pbs.org/newshour/nation/highly-anticipated-review-rolling-stone-campus-rape-story-released",
+      "https://today.duke.edu/showcase/lacrosseincident/"
+    ],
+    "section_id": "05-manufactured-outrage",
+    "section_label": "5. Manufactured outrage and narrative laundering",
+    "url": "05-manufactured-outrage.html",
+    "line": 324,
+    "date": "",
+    "date_raw": "",
+    "title": "UVA and Duke remain two of the cleanest journalistic-moral-panic receipts",
+    "tags": [
+      "uva",
+      "duke",
+      "rape-hoax",
+      "media"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-05-manufactured-outrage-008",
+    "text": "In Canada, the Toronto hijab-cutting hoax and the residential-school mass-graves story both functioned as high-speed moral weapons before scrutiny caught up.",
+    "evidence": "- https://www.meforum.org/a-hijabi-hoax-that-fooled-canada\n- https://nowtoronto.com/news/hijab-hoax-on-who/\n- https://www.fraserinstitute.org/commentary/no-evidence-of-mass-graves-or-genocide-in-residential-schools",
+    "evidence_count": 3,
+    "links": [
+      "https://www.meforum.org/a-hijabi-hoax-that-fooled-canada",
+      "https://nowtoronto.com/news/hijab-hoax-on-who/",
+      "https://www.fraserinstitute.org/commentary/no-evidence-of-mass-graves-or-genocide-in-residential-schools"
+    ],
+    "section_id": "05-manufactured-outrage",
+    "section_label": "5. Manufactured outrage and narrative laundering",
+    "url": "05-manufactured-outrage.html",
+    "line": 331,
+    "date": "",
+    "date_raw": "",
+    "title": "Canadian examples show the same speed-versus-verification failure mode",
+    "tags": [
+      "canada",
+      "hijab-hoax",
+      "residential-schools",
+      "media"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-001",
+    "text": "*Meriwether v. Hartop* shows that a public university really did discipline a professor over pronouns before the Sixth Circuit revived his free-speech and free-exercise claims; the case later ended in a reported $400,000 settlement.",
+    "evidence": "- https://www.opn.ca6.uscourts.gov/opinions.pdf/21a0071p-06.pdf\n- https://www.fire.org/news/blogs/ronald-kl-collins-first-amendment-news/shawnee-state-university-pays-400k-following\n- https://adflegal.org/case/meriwether-v-trustees-shawnee-state-university/",
+    "evidence_count": 3,
+    "links": [
+      "https://www.opn.ca6.uscourts.gov/opinions.pdf/21a0071p-06.pdf",
+      "https://www.fire.org/news/blogs/ronald-kl-collins-first-amendment-news/shawnee-state-university-pays-400k-following",
+      "https://adflegal.org/case/meriwether-v-trustees-shawnee-state-university/"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 351,
+    "date": "",
+    "date_raw": "",
+    "title": "Meriwether turned a pronoun dispute into major constitutional litigation",
+    "tags": [
+      "pronouns",
+      "universities",
+      "free-speech"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-002",
+    "text": "*Vlaming v. West Point School Board* shows that a K-12 teacher was fired over pronouns before appellate correction, with a later reported settlement of $575,000.",
+    "evidence": "- https://www.courthousenews.com/wp-content/uploads/2023/12/vlaming-v.-west-point-school-board-supreme-court-of-virginia-opinion.pdf\n- https://adflegal.org/article/vlaming-v-west-point-school-board-settlement-details",
+    "evidence_count": 2,
+    "links": [
+      "https://www.courthousenews.com/wp-content/uploads/2023/12/vlaming-v.-west-point-school-board-supreme-court-of-virginia-opinion.pdf",
+      "https://adflegal.org/article/vlaming-v-west-point-school-board-settlement-details"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 359,
+    "date": "",
+    "date_raw": "",
+    "title": "Vlaming showed pronoun enforcement could cost a schoolteacher his job",
+    "tags": [
+      "pronouns",
+      "schools",
+      "virginia"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-003",
+    "text": "*Nelson v. Goodberry Restaurant Group* is a clean Canadian workplace receipt: the BC Human Rights Tribunal treated repeated pronoun misuse and gendered nicknames as actionable and ordered damages plus policy changes.",
+    "evidence": "- https://www.bchrt.bc.ca/shareddocs/annual_reports/2021-2022.pdf\n- https://www.bchrt.bc.ca/law-library/leading-cases/protected-characteristics/",
+    "evidence_count": 2,
+    "links": [
+      "https://www.bchrt.bc.ca/shareddocs/annual_reports/2021-2022.pdf",
+      "https://www.bchrt.bc.ca/law-library/leading-cases/protected-characteristics/"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 366,
+    "date": "",
+    "date_raw": "",
+    "title": "Nelson shows direct Canadian workplace enforcement tied to pronouns",
+    "tags": [
+      "canada",
+      "pronouns",
+      "tribunal"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-004",
+    "text": "*Miller v. College of Policing* showed that police recording and warning over gender-critical speech could create a serious chilling effect even without a criminal prosecution.",
+    "evidence": "- https://www.judiciary.uk/wp-content/uploads/2022/07/Miller-v-College-of-Policing-judgment-201221.pdf\n- https://www.judiciary.uk/judgments/miller-v-the-college-of-policing/",
+    "evidence_count": 2,
+    "links": [
+      "https://www.judiciary.uk/wp-content/uploads/2022/07/Miller-v-College-of-Policing-judgment-201221.pdf",
+      "https://www.judiciary.uk/judgments/miller-v-the-college-of-policing/"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 373,
+    "date": "",
+    "date_raw": "",
+    "title": "Miller showed how non-crime recording can still punish speech",
+    "tags": [
+      "uk",
+      "police",
+      "gender-critical",
+      "chilling-effect"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-005",
+    "text": "*Forstater v. CGD Europe* remains the cleanest UK receipt that belief in biological sex as immutable can be legally protected, even after a lower tribunal treated the belief as outside protection.",
+    "evidence": "- https://assets.publishing.service.gov.uk/media/60c1cce1d3bf7f4bd9814e39/Maya_Forstater_v_CGD_Europe_and_others_UKEAT0105_20_JOJ.pdf\n- https://www.judiciary.uk/wp-content/uploads/2022/08/Forstater-JR-AG.pdf",
+    "evidence_count": 2,
+    "links": [
+      "https://assets.publishing.service.gov.uk/media/60c1cce1d3bf7f4bd9814e39/Maya_Forstater_v_CGD_Europe_and_others_UKEAT0105_20_JOJ.pdf",
+      "https://www.judiciary.uk/wp-content/uploads/2022/08/Forstater-JR-AG.pdf"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 380,
+    "date": "",
+    "date_raw": "",
+    "title": "Forstater forced a legal correction against sex-realism overreach",
+    "tags": [
+      "uk",
+      "forstater",
+      "sex-realism",
+      "employment"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-006",
+    "text": "The Restaurant Revitalization Fund used an explicit priority window that pushed white male owners to the back of a limited grant line because of race and sex; the Sixth Circuit said the plaintiffs were likely to succeed.",
+    "evidence": "- https://www.sba.gov/article/2021/apr/19/sba-announces-official-restaurant-revitalization-fund-application-guidelines\n- https://www.opn.ca6.uscourts.gov/opinions.pdf/21a0120p-06.pdf",
+    "evidence_count": 2,
+    "links": [
+      "https://www.sba.gov/article/2021/apr/19/sba-announces-official-restaurant-revitalization-fund-application-guidelines",
+      "https://www.opn.ca6.uscourts.gov/opinions.pdf/21a0120p-06.pdf"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 389,
+    "date": "",
+    "date_raw": "",
+    "title": "Vitolo is a clean receipt of race-and-sex priority in federal relief",
+    "tags": [
+      "vitolo",
+      "rrf",
+      "equal-protection"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-007",
+    "text": "ARP Section 1005 created debt relief for \"socially disadvantaged\" farmers and ranchers, and courts repeatedly treated the race-based design as unlawful.",
+    "evidence": "- https://www.govinfo.gov/content/pkg/COMPS-16472/pdf/COMPS-16472.pdf\n- https://www.govinfo.gov/content/pkg/FR-2021-05-26/pdf/2021-11155.pdf\n- https://www.opn.ca6.uscourts.gov/opinions.pdf/25a0024p-06.pdf",
+    "evidence_count": 3,
+    "links": [
+      "https://www.govinfo.gov/content/pkg/COMPS-16472/pdf/COMPS-16472.pdf",
+      "https://www.govinfo.gov/content/pkg/FR-2021-05-26/pdf/2021-11155.pdf",
+      "https://www.opn.ca6.uscourts.gov/opinions.pdf/25a0024p-06.pdf"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 396,
+    "date": "",
+    "date_raw": "",
+    "title": "ARP Section 1005 reserved a major federal benefit by race",
+    "tags": [
+      "farmers",
+      "race",
+      "holman-vilsack"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-008",
+    "text": "*Ultima Services Corp. v. USDA* held that the SBA's rebuttable presumption of social disadvantage for certain racial groups failed strict scrutiny.",
+    "evidence": "- https://www.govinfo.gov/content/pkg/USCOURTS-tned-2_20-cv-00041/pdf/USCOURTS-tned-2_20-cv-00041-1.pdf",
+    "evidence_count": 1,
+    "links": [
+      "https://www.govinfo.gov/content/pkg/USCOURTS-tned-2_20-cv-00041/pdf/USCOURTS-tned-2_20-cv-00041-1.pdf"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 404,
+    "date": "",
+    "date_raw": "",
+    "title": "Ultima shows race was doing real work in federal contracting access",
+    "tags": [
+      "ultima",
+      "8a",
+      "federal-contracting"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-009",
+    "text": "The Eleventh Circuit held in the Fearless Fund case that a grant contest open only to black women likely violated Section 1981 and ordered preliminary injunctive relief.",
+    "evidence": "- https://media.ca11.uscourts.gov/opinions/pub/files/202313138.pdf",
+    "evidence_count": 1,
+    "links": [
+      "https://media.ca11.uscourts.gov/opinions/pub/files/202313138.pdf"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 410,
+    "date": "",
+    "date_raw": "",
+    "title": "Fearless Fund shows race-exclusive grant programs were defended until courts intervened",
+    "tags": [
+      "fearless-fund",
+      "race",
+      "grants"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-06-protected-categories-010",
+    "text": "The Supreme Court held in *Students for Fair Admissions* that Harvard's and UNC's race-based admissions programs violated the Equal Protection Clause.",
+    "evidence": "- https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf",
+    "evidence_count": 1,
+    "links": [
+      "https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf"
+    ],
+    "section_id": "06-protected-categories",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "url": "06-protected-categories.html",
+    "line": 416,
+    "date": "",
+    "date_raw": "",
+    "title": "SFFA is the top-level receipt that flagship race preferences were unlawful",
+    "tags": [
+      "harvard",
+      "unc",
+      "sffa",
+      "admissions"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-07-money-layer-ngos-001",
+    "text": "Nate Friedman highlighted a concrete example: The People's Forum's David Chung appears in IRS-based reporting as a salaried organizer, which undercuts the claim that all high-visibility protest activity is purely volunteer and spontaneous.",
+    "evidence": "- https://www.jpost.com/diaspora/antisemitism/article-863586\n- https://www.influencewatch.org/non-profit/the-peoples-forum/",
+    "evidence_count": 2,
+    "links": [
+      "https://www.jpost.com/diaspora/antisemitism/article-863586",
+      "https://www.influencewatch.org/non-profit/the-peoples-forum/"
+    ],
+    "section_id": "07-money-layer-ngos",
+    "section_label": "7. The money layer: NGOs, dark-money surfaces, and managed activism",
+    "url": "07-money-layer-ngos.html",
+    "line": 432,
+    "date": "",
+    "date_raw": "",
+    "title": "David Chung is a direct receipt for paid protest infrastructure",
+    "tags": [
+      "protest",
+      "people's-forum",
+      "david-chung"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-07-money-layer-ngos-002",
+    "text": "The George Washington University Program on Extremism and congressional letters tied Neville Roy Singham's network to The People's Forum, PSL, and related anti-Israel activism, with reporting that Singham and Jodie Evans donated roughly $20 million to TPF between 2017 and 2022.",
+    "evidence": "- https://extremism.gwu.edu/sites/g/files/zaxdzs5746/files/2025-07/CCP%20Influence%20in%20US%20Pro-Palestinian%20Activism.pdf\n- https://www.influencewatch.org/non-profit/the-peoples-forum/\n- https://waysandmeans.house.gov/wp-content/uploads/2024/09/Tax-Exempt-Status-Revocation-Letters.pdf",
+    "evidence_count": 3,
+    "links": [
+      "https://extremism.gwu.edu/sites/g/files/zaxdzs5746/files/2025-07/CCP%20Influence%20in%20US%20Pro-Palestinian%20Activism.pdf",
+      "https://www.influencewatch.org/non-profit/the-peoples-forum/",
+      "https://waysandmeans.house.gov/wp-content/uploads/2024/09/Tax-Exempt-Status-Revocation-Letters.pdf"
+    ],
+    "section_id": "07-money-layer-ngos",
+    "section_label": "7. The money layer: NGOs, dark-money surfaces, and managed activism",
+    "url": "07-money-layer-ngos.html",
+    "line": 439,
+    "date": "",
+    "date_raw": "",
+    "title": "Singham money tied paid organizing to a wider ideological network",
+    "tags": [
+      "singham",
+      "ccp",
+      "activism",
+      "tpf"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-07-money-layer-ngos-003",
+    "text": "The Tides Center surfaced repeatedly as a fiscal-sponsorship hub for protest support and bail infrastructure, including reporting that California sent nearly $18 million in taxpayer funds to Tides since 2019.",
+    "evidence": "- https://freebeacon.com/california/newsoms-california-has-sent-nearly-18-million-in-taxpayer-funds-to-soros-backed-tides-center/\n- https://freebeacon.com/israel/left-wing-dark-money-behemoth-behind-bail-fund-for-free-palestine-bridge-blockers/",
+    "evidence_count": 2,
+    "links": [
+      "https://freebeacon.com/california/newsoms-california-has-sent-nearly-18-million-in-taxpayer-funds-to-soros-backed-tides-center/",
+      "https://freebeacon.com/israel/left-wing-dark-money-behemoth-behind-bail-fund-for-free-palestine-bridge-blockers/"
+    ],
+    "section_id": "07-money-layer-ngos",
+    "section_label": "7. The money layer: NGOs, dark-money surfaces, and managed activism",
+    "url": "07-money-layer-ngos.html",
+    "line": 447,
+    "date": "",
+    "date_raw": "",
+    "title": "Tides functioned as a major fiscal-sponsorship and bailout surface",
+    "tags": [
+      "tides",
+      "california",
+      "fiscal-sponsorship",
+      "bail"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-07-money-layer-ngos-004",
+    "text": "The Open Society network and allied donors were reported to have funneled more than $15 million to groups behind pro-Hamas protests, with about $13.7 million reportedly routed through Tides.",
+    "evidence": "- https://www.jns.org/soros-funneled-15m-to-groups-behind-pro-hamas-protests/\n- https://freebeacon.com/israel/left-wing-dark-money-behemoth-behind-bail-fund-for-free-palestine-bridge-blockers/",
+    "evidence_count": 2,
+    "links": [
+      "https://www.jns.org/soros-funneled-15m-to-groups-behind-pro-hamas-protests/",
+      "https://freebeacon.com/israel/left-wing-dark-money-behemoth-behind-bail-fund-for-free-palestine-bridge-blockers/"
+    ],
+    "section_id": "07-money-layer-ngos",
+    "section_label": "7. The money layer: NGOs, dark-money surfaces, and managed activism",
+    "url": "07-money-layer-ngos.html",
+    "line": 454,
+    "date": "",
+    "date_raw": "",
+    "title": "Soros-linked funding added scale to the protest-support layer",
+    "tags": [
+      "soros",
+      "protests",
+      "tides",
+      "osf"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-07-money-layer-ngos-005",
+    "text": "The Heritage Foundation's \"revolutionary ecosystem\" report argued that the same donor and organizer networks keep resurfacing across BLM, pro-Palestinian activism, and other radical protest movements.",
+    "evidence": "- https://www.heritage.org/global-politics/report/how-the-revolutionary-ecosystem-sustains-pro-palestinian-protesters-and-the",
+    "evidence_count": 1,
+    "links": [
+      "https://www.heritage.org/global-politics/report/how-the-revolutionary-ecosystem-sustains-pro-palestinian-protesters-and-the"
+    ],
+    "section_id": "07-money-layer-ngos",
+    "section_label": "7. The money layer: NGOs, dark-money surfaces, and managed activism",
+    "url": "07-money-layer-ngos.html",
+    "line": 461,
+    "date": "",
+    "date_raw": "",
+    "title": "One donor-and-organizer ecosystem keeps resurfacing across movements",
+    "tags": [
+      "heritage",
+      "protests",
+      "donors",
+      "blm"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-08-immigration-clientelism-001",
+    "text": "Study-permit applications rose 121% between 2019 and 2023, which shows how fast the intake model expanded before control systems caught up.",
+    "evidence": "- https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF\n- https://www.canada.ca/en/immigration-refugees-citizenship/news/2024/01/making-canadas-international-student-program-sustainable.html",
+    "evidence_count": 2,
+    "links": [
+      "https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/news/2024/01/making-canadas-international-student-program-sustainable.html"
+    ],
+    "section_id": "08-immigration-clientelism",
+    "section_label": "8. Immigration, demographic clientelism, and Canada as case study",
+    "url": "08-immigration-clientelism.html",
+    "line": 481,
+    "date": "",
+    "date_raw": "",
+    "title": "Canada's student-intake expansion was rapid and obvious",
+    "tags": [
+      "canada",
+      "study-permits",
+      "intake"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-08-immigration-clientelism-002",
+    "text": "India accounted for 51.6% of the incoming student population in 2023, and the Student Direct Stream remained overwhelmingly Indian in practice, with 96% of approved SDS applications coming from Indian nationals in both 2022 and 2023.",
+    "evidence": "- https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF",
+    "evidence_count": 1,
+    "links": [
+      "https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF"
+    ],
+    "section_id": "08-immigration-clientelism",
+    "section_label": "8. Immigration, demographic clientelism, and Canada as case study",
+    "url": "08-immigration-clientelism.html",
+    "line": 488,
+    "date": "",
+    "date_raw": "",
+    "title": "India's concentration made the intake model politically and administratively legible",
+    "tags": [
+      "india",
+      "canada",
+      "sds",
+      "concentration"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-08-immigration-clientelism-003",
+    "text": "Approval rates for Indian nationals in the Student Direct Stream rose from 61% in 2022 to 98% in 2024 even after integrity concerns had already been flagged.",
+    "evidence": "- https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF",
+    "evidence_count": 1,
+    "links": [
+      "https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF"
+    ],
+    "section_id": "08-immigration-clientelism",
+    "section_label": "8. Immigration, demographic clientelism, and Canada as case study",
+    "url": "08-immigration-clientelism.html",
+    "line": 494,
+    "date": "",
+    "date_raw": "",
+    "title": "Approval became easier after risk was already visible",
+    "tags": [
+      "india",
+      "canada",
+      "fraud-risk",
+      "approvals"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-08-immigration-clientelism-004",
+    "text": "IRCC identified 800 study permits involving fraudulent documentation or misrepresentation and did not consider acting in any of those cases, even though it had tools available.",
+    "evidence": "- https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF",
+    "evidence_count": 1,
+    "links": [
+      "https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF"
+    ],
+    "section_id": "08-immigration-clientelism",
+    "section_label": "8. Immigration, demographic clientelism, and Canada as case study",
+    "url": "08-immigration-clientelism.html",
+    "line": 500,
+    "date": "",
+    "date_raw": "",
+    "title": "Fraud was found but not seriously pursued",
+    "tags": [
+      "canada",
+      "fraud",
+      "study-permits"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-08-immigration-clientelism-005",
+    "text": "Between 2023 and 2024, IRCC flagged 153,324 students as potentially non-compliant but launched only 4,057 investigations.",
+    "evidence": "- https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF",
+    "evidence_count": 1,
+    "links": [
+      "https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-international-student-program-reforms.PDF"
+    ],
+    "section_id": "08-immigration-clientelism",
+    "section_label": "8. Immigration, demographic clientelism, and Canada as case study",
+    "url": "08-immigration-clientelism.html",
+    "line": 506,
+    "date": "",
+    "date_raw": "",
+    "title": "Follow-up capacity was tiny compared with the problem volume",
+    "tags": [
+      "canada",
+      "non-compliance",
+      "investigations"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-08-immigration-clientelism-006",
+    "text": "The LMIA side showed similar stress: undercover reporting documented more than 125 online ads in 17 Canadian cities offering LMIA-approved jobs or work permits for sale at prices up to $45,000.",
+    "evidence": "- https://www.cbc.ca/news/investigates/cbc-ijf-lmia-ads-investigation-1.7350596\n- https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/committees/cimm-oct-21-2025/fraud.html\n- https://www.canada.ca/en/employment-social-development/news/2024/08/minister-boissonnault-announces-new-measures-to-address-fraud-in-canadas-temporary-foreign-worker-program.html",
+    "evidence_count": 3,
+    "links": [
+      "https://www.cbc.ca/news/investigates/cbc-ijf-lmia-ads-investigation-1.7350596",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/committees/cimm-oct-21-2025/fraud.html",
+      "https://www.canada.ca/en/employment-social-development/news/2024/08/minister-boissonnault-announces-new-measures-to-address-fraud-in-canadas-temporary-foreign-worker-program.html"
+    ],
+    "section_id": "08-immigration-clientelism",
+    "section_label": "8. Immigration, demographic clientelism, and Canada as case study",
+    "url": "08-immigration-clientelism.html",
+    "line": 512,
+    "date": "",
+    "date_raw": "",
+    "title": "LMIA misuse was not a fringe theory but a visible underground market",
+    "tags": [
+      "canada",
+      "lmia",
+      "fraud",
+      "jobs-for-sale"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-08-immigration-clientelism-007",
+    "text": "A Manitoba anti-forced-labour initiative reported that 39% of participating trucking firms from 2019 to 2023 were no longer legally operational, which is a serious shell-business warning sign even if it should not be inflated into a national rate.",
+    "evidence": "- https://www.winnipegfreepress.com/business/2025/05/31/truck-firms-disappear-after-hiring-foreign-workers-manitoba-program-finds",
+    "evidence_count": 1,
+    "links": [
+      "https://www.winnipegfreepress.com/business/2025/05/31/truck-firms-disappear-after-hiring-foreign-workers-manitoba-program-finds"
+    ],
+    "section_id": "08-immigration-clientelism",
+    "section_label": "8. Immigration, demographic clientelism, and Canada as case study",
+    "url": "08-immigration-clientelism.html",
+    "line": 520,
+    "date": "",
+    "date_raw": "",
+    "title": "Manitoba trucking data pointed to shell-business risk inside one intake-linked sector",
+    "tags": [
+      "manitoba",
+      "trucking",
+      "shell-business",
+      "labour"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-09-trade-canada-001",
+    "text": "In 2024, 75.9% of Canada's domestic exports went to the United States, and about two million Canadian jobs depended on goods exports to the U.S. market.",
+    "evidence": "- https://www150.statcan.gc.ca/n1/daily-quotidien/250205/dq250205a-eng.htm\n- https://www.bankofcanada.ca/2025/04/navigating-trade-disruptions-canadas-path-in-a-reordered-world/",
+    "evidence_count": 2,
+    "links": [
+      "https://www150.statcan.gc.ca/n1/daily-quotidien/250205/dq250205a-eng.htm",
+      "https://www.bankofcanada.ca/2025/04/navigating-trade-disruptions-canadas-path-in-a-reordered-world/"
+    ],
+    "section_id": "09-trade-canada",
+    "section_label": "9. Trade leverage, tariffs, and Canada's weak hand",
+    "url": "09-trade-canada.html",
+    "line": 536,
+    "date": "",
+    "date_raw": "",
+    "title": "Canada's position in a tariff fight was structurally weak from the start",
+    "tags": [
+      "canada",
+      "exports",
+      "usa",
+      "jobs"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-09-trade-canada-002",
+    "text": "The Bank of Canada said retaliatory tariffs make U.S. imports more expensive inside Canada and add to domestic inflation, which means counter-tariffs were partly Ottawa taxing its own economy.",
+    "evidence": "- https://www.bankofcanada.ca/2025/04/navigating-trade-disruptions-canadas-path-in-a-reordered-world/\n- https://www.bankofcanada.ca/2025/04/mpr-2025-04-16/",
+    "evidence_count": 2,
+    "links": [
+      "https://www.bankofcanada.ca/2025/04/navigating-trade-disruptions-canadas-path-in-a-reordered-world/",
+      "https://www.bankofcanada.ca/2025/04/mpr-2025-04-16/"
+    ],
+    "section_id": "09-trade-canada",
+    "section_label": "9. Trade leverage, tariffs, and Canada's weak hand",
+    "url": "09-trade-canada.html",
+    "line": 543,
+    "date": "",
+    "date_raw": "",
+    "title": "Canadian counter-tariffs added domestic pain instead of pure leverage",
+    "tags": [
+      "canada",
+      "tariffs",
+      "inflation",
+      "bank-of-canada"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-09-trade-canada-003",
+    "text": "The White House's April 2, 2025 framework continued 0% treatment for USMCA-compliant goods from Canada and Mexico, which meant Ottawa still had a path to preserve access instead of escalating by reflex.",
+    "evidence": "- https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/",
+    "evidence_count": 1,
+    "links": [
+      "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/"
+    ],
+    "section_id": "09-trade-canada",
+    "section_label": "9. Trade leverage, tariffs, and Canada's weak hand",
+    "url": "09-trade-canada.html",
+    "line": 550,
+    "date": "",
+    "date_raw": "",
+    "title": "USMCA-compliant access still existed under the April 2025 framework",
+    "tags": [
+      "usmca",
+      "tariffs",
+      "canada",
+      "white-house"
+    ],
+    "note": ""
   },
   {
     "id": "C-10-second-term-pressure-points-001",
@@ -76,7 +1139,7 @@
     "section_id": "10-second-term-pressure-points",
     "section_label": "10. What the second-term Trump administration is actually hitting",
     "url": "10-second-term-pressure-points.html",
-    "line": 221,
+    "line": 568,
     "date": "",
     "date_raw": "",
     "title": "",
@@ -94,7 +1157,7 @@
     "section_id": "10-second-term-pressure-points",
     "section_label": "10. What the second-term Trump administration is actually hitting",
     "url": "10-second-term-pressure-points.html",
-    "line": 225,
+    "line": 572,
     "date": "",
     "date_raw": "",
     "title": "",
@@ -103,7 +1166,25 @@
   },
   {
     "id": "C-10-second-term-pressure-points-003",
-    "text": "Fourth, the compliance network. The TNI-related antitrust intervention matters because it signals that viewpoint collusion can be treated as a legal problem rather than a noble public-health or public-safety exception.",
+    "text": "Third, trade. Tariffs are being used as leverage to punish offshoring, force concessions, and reprice access to the U.S. market.",
+    "evidence": "- https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/",
+    "evidence_count": 1,
+    "links": [
+      "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/"
+    ],
+    "section_id": "10-second-term-pressure-points",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "url": "10-second-term-pressure-points.html",
+    "line": 576,
+    "date": "",
+    "date_raw": "",
+    "title": "",
+    "tags": [],
+    "note": ""
+  },
+  {
+    "id": "C-10-second-term-pressure-points-004",
+    "text": "Fourth, the compliance network. The TNI-related antitrust intervention matters because it signals that viewpoint collusion can be treated as a legal problem rather than a noble exception.",
     "evidence": "- https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas",
     "evidence_count": 1,
     "links": [
@@ -112,11 +1193,113 @@
     "section_id": "10-second-term-pressure-points",
     "section_label": "10. What the second-term Trump administration is actually hitting",
     "url": "10-second-term-pressure-points.html",
-    "line": 231,
+    "line": 580,
     "date": "",
     "date_raw": "",
     "title": "",
     "tags": [],
+    "note": ""
+  },
+  {
+    "id": "C-10-second-term-pressure-points-005",
+    "text": "DHS repeatedly said assaults on ICE officers surged in 2025, moving from 413% to 500%, then 830%, and later more than 1000% in official department messaging as the year went on.",
+    "evidence": "- https://www.dhs.gov/news/2025/06/07/dhs-releases-statement-violent-rioters-assaulting-ice-officers-los-angeles-ca-and\n- https://www.dhs.gov/news/2025/06/20/icymi-ice-agents-now-face-500-increase-assaults-against-them\n- https://www.dhs.gov/news/2025/07/15/dhs-announces-ice-law-enforcement-are-now-facing-830-percent-increase-assaults\n- https://www.dhs.gov/news/2025/09/22/despite-1000-increase-assaults-ice-officers-governor-newsom-signs-unconstitutional",
+    "evidence_count": 4,
+    "links": [
+      "https://www.dhs.gov/news/2025/06/07/dhs-releases-statement-violent-rioters-assaulting-ice-officers-los-angeles-ca-and",
+      "https://www.dhs.gov/news/2025/06/20/icymi-ice-agents-now-face-500-increase-assaults-against-them",
+      "https://www.dhs.gov/news/2025/07/15/dhs-announces-ice-law-enforcement-are-now-facing-830-percent-increase-assaults",
+      "https://www.dhs.gov/news/2025/09/22/despite-1000-increase-assaults-ice-officers-governor-newsom-signs-unconstitutional"
+    ],
+    "section_id": "10-second-term-pressure-points",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "url": "10-second-term-pressure-points.html",
+    "line": 592,
+    "date": "",
+    "date_raw": "",
+    "title": "DHS publicly tied a steep assault spike to the broader demonization of ICE",
+    "tags": [
+      "ice",
+      "assaults",
+      "dhs",
+      "rhetoric"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-10-second-term-pressure-points-006",
+    "text": "The DOJ charged Rahmanullah Lakanwal in the ambush-style shooting near the White House that killed National Guardsman Sarah Beckstrom and seriously injured National Guardsman Andrew Wolfe.",
+    "evidence": "- https://www.justice.gov/usao-dc/pr/afghan-national-charged-murder-national-guard-soldier-sarah-beckstrom\n- https://www.justice.gov/usao-dc/pr/new-federal-charges-killing-national-guardsman-sarah-beckstrom-and-shooting-guardsman\n- https://www.justice.gov/usao-dc/pr/lakanwal-newly-indicted-shooting-guardsmen-near-white-house-killed-sarah-beckstrom-0",
+    "evidence_count": 3,
+    "links": [
+      "https://www.justice.gov/usao-dc/pr/afghan-national-charged-murder-national-guard-soldier-sarah-beckstrom",
+      "https://www.justice.gov/usao-dc/pr/new-federal-charges-killing-national-guardsman-sarah-beckstrom-and-shooting-guardsman",
+      "https://www.justice.gov/usao-dc/pr/lakanwal-newly-indicted-shooting-guardsmen-near-white-house-killed-sarah-beckstrom-0"
+    ],
+    "section_id": "10-second-term-pressure-points",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "url": "10-second-term-pressure-points.html",
+    "line": 601,
+    "date": "2025-12-24",
+    "date_raw": "",
+    "title": "DOJ formalized the Guardsmen shooting as a federal case with added charges",
+    "tags": [
+      "national-guard",
+      "washington-dc",
+      "firearms",
+      "doj"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-10-second-term-pressure-points-007",
+    "text": "The FBI and DOJ formally treated the Butler and West Palm Beach incidents as attempted assassinations of Donald Trump, not as random disturbances.",
+    "evidence": "- https://www.fbi.gov/news/press-releases/fbi-statement-on-incident-in-butler-pennsylvania\n- https://www.fbi.gov/news/press-releases/update-on-the-fbi-investigation-of-the-attempted-assassination-of-former-president-donald-trump\n- https://www.justice.gov/opa/pr/jury-convicts-man-attempted-assassination-president-donald-j-trump-and-assault-federal-law",
+    "evidence_count": 3,
+    "links": [
+      "https://www.fbi.gov/news/press-releases/fbi-statement-on-incident-in-butler-pennsylvania",
+      "https://www.fbi.gov/news/press-releases/update-on-the-fbi-investigation-of-the-attempted-assassination-of-former-president-donald-trump",
+      "https://www.justice.gov/opa/pr/jury-convicts-man-attempted-assassination-president-donald-j-trump-and-assault-federal-law"
+    ],
+    "section_id": "10-second-term-pressure-points",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "url": "10-second-term-pressure-points.html",
+    "line": 610,
+    "date": "",
+    "date_raw": "",
+    "title": "Federal agencies classified the major Trump attacks as assassination attempts",
+    "tags": [
+      "trump",
+      "assassination-attempt",
+      "fbi",
+      "doj"
+    ],
+    "note": ""
+  },
+  {
+    "id": "C-10-second-term-pressure-points-008",
+    "text": "The FBI and DOJ also treated Charlie Kirk's killing as a real political assassination event, not a rumor or internet myth.",
+    "evidence": "- https://www.fbi.gov/contact-us/field-offices/saltlakecity/news/reward-of-up-to-100000-for-information-leading-to-the-identification-arrest-of-individuals-in-murder-of-charlie-kirk\n- https://www.fbi.gov/utahvalleyshootingupdates\n- https://www.fbi.gov/news/speeches-and-testimony/director-patel-opening-statement-to-the-senate-committee-on-the-judiciary-091625\n- https://www.justice.gov/usao-nm/pr/new-mexico-teenager-charged-making-violent-online-threats",
+    "evidence_count": 4,
+    "links": [
+      "https://www.fbi.gov/contact-us/field-offices/saltlakecity/news/reward-of-up-to-100000-for-information-leading-to-the-identification-arrest-of-individuals-in-murder-of-charlie-kirk",
+      "https://www.fbi.gov/utahvalleyshootingupdates",
+      "https://www.fbi.gov/news/speeches-and-testimony/director-patel-opening-statement-to-the-senate-committee-on-the-judiciary-091625",
+      "https://www.justice.gov/usao-nm/pr/new-mexico-teenager-charged-making-violent-online-threats"
+    ],
+    "section_id": "10-second-term-pressure-points",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "url": "10-second-term-pressure-points.html",
+    "line": 618,
+    "date": "2025-09-10",
+    "date_raw": "",
+    "title": "Charlie Kirk assassination was treated as a major federal murder investigation",
+    "tags": [
+      "charlie-kirk",
+      "assassination",
+      "fbi",
+      "doj"
+    ],
     "note": ""
   }
 ]

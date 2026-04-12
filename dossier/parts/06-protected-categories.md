@@ -10,8 +10,8 @@ keywords:
   - "race preferences"
   - "institutional enforcement"
 summary:
-  - "Compresses the trans and white-discrimination receipts into one proportionate section."
-  - "Keeps the claim narrow: real institutional enforcement existed."
+  - "Expands the trans and white-discrimination receipts instead of compressing them into a light overview."
+  - "Keeps the point narrow and concrete: real institutional enforcement existed, and courts often had to step in."
 related:
   - "01-system-logic"
   - "04-compliance-network"
@@ -19,16 +19,77 @@ related:
 
 The point of this section is not to claim every institution everywhere worked the same way. The narrower point is enough: protected-category logic moved out of online culture-war talk and into institutions with real coercive power.
 
-The trans receipts paper's bottom line is that pronoun and gender-identity disputes produced real enforcement in universities, schools, tribunals, workplaces, family law, and even police guidance, although appellate courts in some jurisdictions later pushed back.
+6.1 Pronouns and gender-critical speech
 
-Its case map is useful because it is concrete:
-- *Meriwether v. Hartop* involved a public university disciplining a professor over pronouns, with the Sixth Circuit reviving his free-speech and free-exercise claims and a later reported settlement of about $400,000.
-- *Vlaming v. West Point School Board* involved a teacher who was fired over pronouns before later appellate correction and a reported settlement.
-- In British Columbia, *Nelson v. Goodberry Restaurant Group* shows that pronoun disputes could also lead to damages and mandated workplace-policy changes.
-- In England and Wales, *Miller v. College of Policing* shows that even non-crime police recording around gender-critical speech could create a chilling effect before appellate correction.
+*Meriwether v. Hartop* shows that a public university really did discipline a professor over pronouns before the Sixth Circuit revived his free-speech and free-exercise claims; the case later ended in a reported $400,000 settlement. [C]
+TITLE: Meriwether turned a pronoun dispute into major constitutional litigation
+TAGS: pronouns, universities, free-speech
+Evidence:
+- https://www.opn.ca6.uscourts.gov/opinions.pdf/21a0071p-06.pdf
+- https://www.fire.org/news/blogs/ronald-kl-collins-first-amendment-news/shawnee-state-university-pays-400k-following
+- https://adflegal.org/case/meriwether-v-trustees-shawnee-state-university/
 
-The race-preference receipts paper makes a parallel narrow claim. It does not prove a total theory of anti-white bias. It proves that multiple U.S. programs and contests explicitly sorted by race, and courts repeatedly blocked or condemned them.
+*Vlaming v. West Point School Board* shows that a K-12 teacher was fired over pronouns before appellate correction, with a later reported settlement of $575,000. [C]
+TITLE: Vlaming showed pronoun enforcement could cost a schoolteacher his job
+TAGS: pronouns, schools, virginia
+Evidence:
+- https://www.courthousenews.com/wp-content/uploads/2023/12/vlaming-v.-west-point-school-board-supreme-court-of-virginia-opinion.pdf
+- https://adflegal.org/article/vlaming-v-west-point-school-board-settlement-details
 
-Its cleanest examples include the Restaurant Revitalization Fund priority window, ARP Section 1005 farm debt relief, the SBA 8(a) rebuttable presumption, the Fearless Fund grant contest, and race-based university admissions.
+*Nelson v. Goodberry Restaurant Group* is a clean Canadian workplace receipt: the BC Human Rights Tribunal treated repeated pronoun misuse and gendered nicknames as actionable and ordered damages plus policy changes. [C]
+TITLE: Nelson shows direct Canadian workplace enforcement tied to pronouns
+TAGS: canada, pronouns, tribunal
+Evidence:
+- https://www.bchrt.bc.ca/shareddocs/annual_reports/2021-2022.pdf
+- https://www.bchrt.bc.ca/law-library/leading-cases/protected-characteristics/
 
-This section belongs in the dossier because it shows how moral asymmetry becomes administrative. One side gets framed as protected, affirmable, and compliance-backed. The other side gets told that resistance is bigotry, discrimination, or punishable refusal.
+*Miller v. College of Policing* showed that police recording and warning over gender-critical speech could create a serious chilling effect even without a criminal prosecution. [C]
+TITLE: Miller showed how non-crime recording can still punish speech
+TAGS: uk, police, gender-critical, chilling-effect
+Evidence:
+- https://www.judiciary.uk/wp-content/uploads/2022/07/Miller-v-College-of-Policing-judgment-201221.pdf
+- https://www.judiciary.uk/judgments/miller-v-the-college-of-policing/
+
+*Forstater v. CGD Europe* remains the cleanest UK receipt that belief in biological sex as immutable can be legally protected, even after a lower tribunal treated the belief as outside protection. [C]
+TITLE: Forstater forced a legal correction against sex-realism overreach
+TAGS: uk, forstater, sex-realism, employment
+Evidence:
+- https://assets.publishing.service.gov.uk/media/60c1cce1d3bf7f4bd9814e39/Maya_Forstater_v_CGD_Europe_and_others_UKEAT0105_20_JOJ.pdf
+- https://www.judiciary.uk/wp-content/uploads/2022/08/Forstater-JR-AG.pdf
+
+6.2 Race-explicit preferences
+
+The Restaurant Revitalization Fund used an explicit priority window that pushed white male owners to the back of a limited grant line because of race and sex; the Sixth Circuit said the plaintiffs were likely to succeed. [C]
+TITLE: Vitolo is a clean receipt of race-and-sex priority in federal relief
+TAGS: vitolo, rrf, equal-protection
+Evidence:
+- https://www.sba.gov/article/2021/apr/19/sba-announces-official-restaurant-revitalization-fund-application-guidelines
+- https://www.opn.ca6.uscourts.gov/opinions.pdf/21a0120p-06.pdf
+
+ARP Section 1005 created debt relief for "socially disadvantaged" farmers and ranchers, and courts repeatedly treated the race-based design as unlawful. [C]
+TITLE: ARP Section 1005 reserved a major federal benefit by race
+TAGS: farmers, race, holman-vilsack
+Evidence:
+- https://www.govinfo.gov/content/pkg/COMPS-16472/pdf/COMPS-16472.pdf
+- https://www.govinfo.gov/content/pkg/FR-2021-05-26/pdf/2021-11155.pdf
+- https://www.opn.ca6.uscourts.gov/opinions.pdf/25a0024p-06.pdf
+
+*Ultima Services Corp. v. USDA* held that the SBA's rebuttable presumption of social disadvantage for certain racial groups failed strict scrutiny. [C]
+TITLE: Ultima shows race was doing real work in federal contracting access
+TAGS: ultima, 8a, federal-contracting
+Evidence:
+- https://www.govinfo.gov/content/pkg/USCOURTS-tned-2_20-cv-00041/pdf/USCOURTS-tned-2_20-cv-00041-1.pdf
+
+The Eleventh Circuit held in the Fearless Fund case that a grant contest open only to black women likely violated Section 1981 and ordered preliminary injunctive relief. [C]
+TITLE: Fearless Fund shows race-exclusive grant programs were defended until courts intervened
+TAGS: fearless-fund, race, grants
+Evidence:
+- https://media.ca11.uscourts.gov/opinions/pub/files/202313138.pdf
+
+The Supreme Court held in *Students for Fair Admissions* that Harvard's and UNC's race-based admissions programs violated the Equal Protection Clause. [C]
+TITLE: SFFA is the top-level receipt that flagship race preferences were unlawful
+TAGS: harvard, unc, sffa, admissions
+Evidence:
+- https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf
+
+The reason this section belongs in the dossier is simple. It shows how moral asymmetry becomes administrative. One side is treated as protected, affirmable, and compliance-backed. The other side is told that resistance is punishable refusal.
