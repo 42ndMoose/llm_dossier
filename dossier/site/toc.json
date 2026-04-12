@@ -1,0 +1,321 @@
+[
+  {
+    "id": "00-start-here",
+    "order": "000000",
+    "number": "",
+    "level": 1,
+    "title": "Start Here",
+    "keywords": [
+      "navigation",
+      "toc",
+      "claims ledger"
+    ],
+    "summary": [
+      "Landing page for humans and LLMs.",
+      "Explains the public pages, source files, and internal claim markers."
+    ],
+    "related": "[]",
+    "url": "00-start-here.html"
+  },
+  {
+    "id": "00-political-context",
+    "order": "000100",
+    "number": "0",
+    "level": 1,
+    "title": "Political context",
+    "keywords": [
+      "Trump second term",
+      "DEI rollback",
+      "ESG",
+      "tariffs",
+      "censorship network"
+    ],
+    "summary": [
+      "Sets the current political frame and replaces informal shorthand with cleaner wording.",
+      "Defines the dossier's three recurring layers: narrative control, the money layer, and demographic lock-in."
+    ],
+    "related": [
+      "01-system-logic",
+      "04-compliance-network",
+      "10-second-term-pressure-points"
+    ],
+    "url": "00-political-context.html"
+  },
+  {
+    "id": "01-system-logic",
+    "order": "000200",
+    "number": "1",
+    "level": 1,
+    "title": "System logic: narrative inversion, dependency, and entrenchment",
+    "keywords": [
+      "demoralization",
+      "status inversion",
+      "epistemic capture",
+      "clientelism",
+      "bureaucratic dependency"
+    ],
+    "summary": [
+      "Uses the agenda paper as the conceptual backbone, but keeps it proportionate.",
+      "Frames the broader pattern as a sequence rather than a pile of unrelated disputes."
+    ],
+    "related": [
+      "05-manufactured-outrage",
+      "06-protected-categories",
+      "08-immigration-clientelism"
+    ],
+    "url": "01-system-logic.html"
+  },
+  {
+    "id": "02-elite-factions",
+    "order": "000300",
+    "number": "2",
+    "level": 1,
+    "title": "Elite factions inside one shared system",
+    "keywords": [
+      "elite factions",
+      "WEF",
+      "America First",
+      "Wall Street",
+      "offshoring"
+    ],
+    "summary": [
+      "Keeps the dossier away from cartoon single-cabal framing.",
+      "Distinguishes the Davos-style bloc from the nationalist and resource-capital bloc."
+    ],
+    "related": [
+      "03-ownership-layer",
+      "09-trade-canada",
+      "10-second-term-pressure-points"
+    ],
+    "url": "02-elite-factions.html"
+  },
+  {
+    "id": "03-ownership-layer",
+    "order": "000400",
+    "number": "3",
+    "level": 1,
+    "title": "Ownership and governance layers",
+    "keywords": [
+      "Big Three",
+      "BlackRock",
+      "Vanguard",
+      "State Street",
+      "media ownership"
+    ],
+    "summary": [
+      "Explains the ownership layer without pretending it is day-to-day editorial control.",
+      "Keeps the distinction between equity concentration and direct newsroom command."
+    ],
+    "related": [
+      "04-compliance-network",
+      "10-second-term-pressure-points"
+    ],
+    "url": "03-ownership-layer.html"
+  },
+  {
+    "id": "04-compliance-network",
+    "order": "000500",
+    "number": "4",
+    "level": 1,
+    "title": "The compliance network beyond ownership",
+    "keywords": [
+      "TNI",
+      "EIP",
+      "DFRLab",
+      "IFCN",
+      "GARM"
+    ],
+    "summary": [
+      "Maps the regulation, NGO, advertiser, and platform stack beyond formal ownership.",
+      "Treats the network as a compliance regime rather than a single command center."
+    ],
+    "related": [
+      "05-manufactured-outrage",
+      "06-protected-categories",
+      "07-money-layer-ngos"
+    ],
+    "url": "04-compliance-network.html"
+  },
+  {
+    "id": "05-manufactured-outrage",
+    "order": "000600",
+    "number": "5",
+    "level": 1,
+    "title": "Manufactured outrage and narrative laundering",
+    "keywords": [
+      "Smollett",
+      "Covington",
+      "Duke lacrosse",
+      "media panic",
+      "moral panic"
+    ],
+    "summary": [
+      "Integrates the manufactured-outage paper as a narrative-control case study.",
+      "Shows how selective amplification and muted correction shape public memory."
+    ],
+    "related": [
+      "04-compliance-network",
+      "06-protected-categories",
+      "08-immigration-clientelism"
+    ],
+    "url": "05-manufactured-outrage.html"
+  },
+  {
+    "id": "06-protected-categories",
+    "order": "000700",
+    "number": "6",
+    "level": 1,
+    "title": "Protected categories, compelled language, and race-explicit preferences",
+    "keywords": [
+      "pronouns",
+      "gender-critical speech",
+      "race preferences",
+      "institutional enforcement"
+    ],
+    "summary": [
+      "Compresses the trans and white-discrimination receipts into one proportionate section.",
+      "Keeps the claim narrow: real institutional enforcement existed."
+    ],
+    "related": [
+      "01-system-logic",
+      "04-compliance-network"
+    ],
+    "url": "06-protected-categories.html"
+  },
+  {
+    "id": "07-money-layer-ngos",
+    "order": "000800",
+    "number": "7",
+    "level": 1,
+    "title": "The money layer: NGOs, fraud exposure, and protest infrastructure",
+    "keywords": [
+      "NGOs",
+      "DOGE",
+      "astroturf",
+      "protests",
+      "funding"
+    ],
+    "summary": [
+      "Connects bureaucratic dependency to NGOs, contractors, and professional activism.",
+      "Uses the Nate Friedman source note proportionately, not as a total explanation."
+    ],
+    "related": [
+      "04-compliance-network",
+      "08-immigration-clientelism",
+      "10-second-term-pressure-points"
+    ],
+    "url": "07-money-layer-ngos.html"
+  },
+  {
+    "id": "08-immigration-clientelism",
+    "order": "000900",
+    "number": "8",
+    "level": 1,
+    "title": "Immigration, demographic clientelism, and Canada as case study",
+    "keywords": [
+      "immigration",
+      "clientelism",
+      "Canada",
+      "student permits",
+      "LMIA"
+    ],
+    "summary": [
+      "Uses the Canada intake paper as the main concrete case study.",
+      "Connects demographic management to weak front-end controls and expanding intermediary layers."
+    ],
+    "related": [
+      "01-system-logic",
+      "07-money-layer-ngos",
+      "09-trade-canada"
+    ],
+    "url": "08-immigration-clientelism.html"
+  },
+  {
+    "id": "09-trade-canada",
+    "order": "001000",
+    "number": "9",
+    "level": 1,
+    "title": "Trade leverage, tariffs, and Canada's weak hand",
+    "keywords": [
+      "tariffs",
+      "Canada",
+      "trade leverage",
+      "USMCA"
+    ],
+    "summary": [
+      "Integrates the Canada tariff paper without turning the whole dossier into a trade memo.",
+      "Keeps the point simple: Canada entered the conflict from a weaker position."
+    ],
+    "related": [
+      "02-elite-factions",
+      "10-second-term-pressure-points"
+    ],
+    "url": "09-trade-canada.html"
+  },
+  {
+    "id": "10-second-term-pressure-points",
+    "order": "001100",
+    "number": "10",
+    "level": 1,
+    "title": "What the second-term Trump administration is actually hitting",
+    "keywords": [
+      "Trump second term",
+      "DEI rollback",
+      "energy",
+      "tariffs",
+      "DOGE"
+    ],
+    "summary": [
+      "Converts the old informal Trump section into a more serious pressure-point map.",
+      "Focuses on concrete pillars rather than vibes."
+    ],
+    "related": [
+      "00-political-context",
+      "04-compliance-network",
+      "07-money-layer-ngos"
+    ],
+    "url": "10-second-term-pressure-points.html"
+  },
+  {
+    "id": "11-accountability-constraints",
+    "order": "001200",
+    "number": "11",
+    "level": 1,
+    "title": "Why accountability stays narrow and slow",
+    "keywords": [
+      "lawfare",
+      "accountability",
+      "venue",
+      "bureaucracy",
+      "statutes of limitation"
+    ],
+    "summary": [
+      "Removes the Bondi-Comey framing and states the constraint logic in general form.",
+      "Explains why exposure does not automatically become conviction."
+    ],
+    "related": [
+      "10-second-term-pressure-points",
+      "12-summary"
+    ],
+    "url": "11-accountability-constraints.html"
+  },
+  {
+    "id": "12-summary",
+    "order": "001300",
+    "number": "12",
+    "level": 1,
+    "title": "Summary in one pass",
+    "keywords": [
+      "summary",
+      "compliance stack",
+      "clientelism",
+      "Trump second term"
+    ],
+    "summary": [
+      "One-pass compression of the rebuilt dossier.",
+      "States the thesis without the informal language of the old version."
+    ],
+    "related": "[]",
+    "url": "12-summary.html"
+  }
+]

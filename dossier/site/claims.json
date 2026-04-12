@@ -1,0 +1,122 @@
+[
+  {
+    "id": "C-00-political-context-001",
+    "text": "The second-term Trump administration is pressuring all three at once. It is attacking federal DEI infrastructure, leaning into tariffs and onshoring, pressuring climate-finance alignments, and backing legal and political attacks on collusive censorship systems.",
+    "evidence": "- https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/\n- https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/\n- https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas",
+    "evidence_count": 3,
+    "links": [
+      "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/",
+      "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/",
+      "https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas"
+    ],
+    "section_id": "00-political-context",
+    "section_label": "0. Political context",
+    "url": "00-political-context.html",
+    "line": 13,
+    "date": "",
+    "date_raw": "",
+    "title": "",
+    "tags": [],
+    "note": ""
+  },
+  {
+    "id": "C-03-ownership-layer-001",
+    "text": "The Big Three in this dossier means BlackRock, Vanguard, and State Street. They repeatedly appear as major institutional holders across large public companies, including major media parents.",
+    "evidence": "- https://corpgov.law.harvard.edu/2019/06/14/the-big-three-power-and-why-it-matters/\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=102909&type=13F-HR&count=40&owner=exclude\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1364742&type=13F-HR&count=40&owner=exclude\n- https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=93751&type=13F-HR&count=40&owner=exclude",
+    "evidence_count": 4,
+    "links": [
+      "https://corpgov.law.harvard.edu/2019/06/14/the-big-three-power-and-why-it-matters/",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=102909&type=13F-HR&count=40&owner=exclude",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1364742&type=13F-HR&count=40&owner=exclude",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=93751&type=13F-HR&count=40&owner=exclude"
+    ],
+    "section_id": "03-ownership-layer",
+    "section_label": "3. Ownership and governance layers",
+    "url": "03-ownership-layer.html",
+    "line": 70,
+    "date": "",
+    "date_raw": "",
+    "title": "",
+    "tags": [],
+    "note": ""
+  },
+  {
+    "id": "C-04-compliance-network-001",
+    "text": "The Trusted News Initiative is one of the cleanest coordination nodes because it was publicly described as a cross-organization partnership against election and later vaccine disinformation, and the U.S. Department of Justice later warned in antitrust litigation that coordinated viewpoint suppression can raise competition issues in the marketplace of ideas.",
+    "evidence": "- https://www.ebu.ch/news/2020/07/trusted-news-initiative-steps-up-global-fight-against-disinformation-and-targets-us-presidential-election\n- https://www.ebu.ch/news/2020/12/trusted-news-initiative-to-combat-spread-of-harmful-vaccine-disinformation\n- https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas",
+    "evidence_count": 3,
+    "links": [
+      "https://www.ebu.ch/news/2020/07/trusted-news-initiative-steps-up-global-fight-against-disinformation-and-targets-us-presidential-election",
+      "https://www.ebu.ch/news/2020/12/trusted-news-initiative-to-combat-spread-of-harmful-vaccine-disinformation",
+      "https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas"
+    ],
+    "section_id": "04-compliance-network",
+    "section_label": "4. The compliance network beyond ownership",
+    "url": "04-compliance-network.html",
+    "line": 96,
+    "date": "2020-07-13",
+    "date_raw": "",
+    "title": "Public launch framing for TNI election coordination",
+    "tags": [
+      "tni",
+      "coordination",
+      "election",
+      "disinformation"
+    ],
+    "note": "The point here is public self-description plus later antitrust attention, not proof of every allegation in the underlying suit."
+  },
+  {
+    "id": "C-10-second-term-pressure-points-001",
+    "text": "First, DEI. Federal DEI expansion stopped being a one-way ratchet and turned into a live legal and administrative fight.",
+    "evidence": "- https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/",
+    "evidence_count": 1,
+    "links": [
+      "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/"
+    ],
+    "section_id": "10-second-term-pressure-points",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "url": "10-second-term-pressure-points.html",
+    "line": 221,
+    "date": "",
+    "date_raw": "",
+    "title": "",
+    "tags": [],
+    "note": ""
+  },
+  {
+    "id": "C-10-second-term-pressure-points-002",
+    "text": "Second, climate and energy. The administration is pushing fossil approvals, emergency framing, and rollback pressure against the net-zero governance model.",
+    "evidence": "- https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/",
+    "evidence_count": 1,
+    "links": [
+      "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/"
+    ],
+    "section_id": "10-second-term-pressure-points",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "url": "10-second-term-pressure-points.html",
+    "line": 225,
+    "date": "",
+    "date_raw": "",
+    "title": "",
+    "tags": [],
+    "note": ""
+  },
+  {
+    "id": "C-10-second-term-pressure-points-003",
+    "text": "Fourth, the compliance network. The TNI-related antitrust intervention matters because it signals that viewpoint collusion can be treated as a legal problem rather than a noble public-health or public-safety exception.",
+    "evidence": "- https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas",
+    "evidence_count": 1,
+    "links": [
+      "https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas"
+    ],
+    "section_id": "10-second-term-pressure-points",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "url": "10-second-term-pressure-points.html",
+    "line": 231,
+    "date": "",
+    "date_raw": "",
+    "title": "",
+    "tags": [],
+    "note": ""
+  }
+]
