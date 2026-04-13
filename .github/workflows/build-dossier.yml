@@ -1,0 +1,60 @@
+name: Build dossier pages
+
+on:
+  push:
+    paths:
+      - "dossier/parts/**"
+      - "tools/**"
+      - ".github/workflows/build-dossier.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build dossier source.md from parts
+        run: |
+          python tools/build_source.py
+
+      - name: Clean output folder (keep assets)
+        run: |
+          set -euo pipefail
+          mkdir -p dossier/site/assets
+          find dossier/site -type f \( -name "*.html" -o -name "*.json" \) \
+            ! -path "dossier/site/assets/*" \
+            ! -path "dossier/site/source.html" \
+            -delete
+
+      - name: Split dossier into pages
+        run: |
+          python tools/split_dossier.py dossier/parts dossier/site
+
+      - name: Build claims ledger
+        run: |
+          python tools/build_claims.py dossier/source.md dossier/site
+
+      - name: Build timeline
+        run: |
+          python tools/build_timeline.py dossier/site
+
+      - name: Build source.html (clean human view)
+        run: |
+          python tools/build_source_html.py dossier/source.md dossier/site/source.html
+
+      - name: Commit built files
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossier-bot@users.noreply.github.com"
+          git add dossier/source.md dossier/site
+          git diff --staged --quiet && exit 0
+          git commit -m "Auto-build dossier"
+          git push
