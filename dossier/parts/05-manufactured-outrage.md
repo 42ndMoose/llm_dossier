@@ -10,9 +10,10 @@ keywords:
   - "Duke lacrosse"
   - "mass graves"
   - "media panic"
+  - "diversion"
 summary:
   - "Turns the manufactured-outrage paper into a full case-study section instead of a short nod."
-  - "Shows how useful narratives are amplified fast, then corrected quietly after the damage is done."
+  - "Shows how useful narratives are amplified fast, then corrected quietly after the damage is done, and explains why scandal coverage can also function as diversion from upstream institutional pressure points."
 related:
   - "04-compliance-network"
   - "06-protected-categories"
@@ -27,6 +28,11 @@ The recurring pattern is simple:
 - identity-based moral framing,
 - delayed or muted correction,
 - durable public memory after the facts collapse.
+
+Interpretive rule:
+- When a scandal erupts, the task is not only to ask whether the outrage object is real.
+- The task is also to ask whether the outrage is being used to redirect attention away from upstream institutional pressure points, custody chains, funding surfaces, or factional conflicts that matter more.
+- In other words, scandal can be genuine, manipulated, or both. The dossier is built to detect when moral energy is being steered.
 
 The sharp point from the integrated paper is identity asymmetry. When alleged perpetrators are white, Christian, male, conservative, or otherwise coded as part of the disfavored tribe, those identities are foregrounded and linked to a broader social pathology. When facts cut the other way, or when the perpetrator belongs to a protected class, the identity details are far more likely to be blurred, withheld, or treated as irrelevant.
 

@@ -10,9 +10,11 @@ keywords:
   - "epistemic capture"
   - "clientelism"
   - "bureaucratic dependency"
+  - "coordination"
+  - "incentive convergence"
 summary:
   - "Uses the agenda paper as the conceptual backbone and restores its strongest concrete points."
-  - "Frames the broader pattern as a sequence with institutional receipts, not as a pile of disconnected disputes."
+  - "Frames the broader pattern as a sequence with institutional receipts, not as a pile of disconnected disputes, and explains how aligned behavior can arise through direct coordination, factional reinforcement, or incentive convergence."
 related:
   - "04-compliance-network"
   - "05-manufactured-outrage"
@@ -32,6 +34,13 @@ A good structural model is this:
 - make open resistance costly through professional, legal, or reputational penalties,
 - then build service, funding, and intermediary layers that materially depend on continuation.
 
+Method note:
+- The dossier does not require every actor to be consciously in on the whole thing.
+- The strongest form is direct coordination, where state actors, media, NGOs, funders, regulators, or platforms knowingly work in the same direction.
+- The middle form is factional reinforcement, where key nodes know enough to back each other even if they do not command the whole machine.
+- The weaker but still powerful form is incentive convergence, where no master order is required because institutions are rewarded for moving the same way and punished for deviation.
+- Bureaucrats protect budgets and jurisdiction. Media protects narrative class and access. NGOs protect funding. Platforms protect regulatory safety. Politicians protect coalition math. That alone can make a system behave collectively.
+
 1.1 Demoralization and majority delegitimization
 
 The opening move is not generic criticism. It is demoralization of the historic majority, especially straight, white, male, and Christian norms. The sharper point from the agenda paper is that these markers are often attacked separately while also being rhetorically fused into one symbolic enemy. Heterosexuality is framed as stale or oppressive. Whiteness is recoded from demographic identity into civilizational suspicion. Masculinity is narrated through patriarchy, structural harm, and collective culpability. Christianity is treated as especially implicated in exclusion, sexual repression, or historical guilt.
@@ -41,7 +50,7 @@ DATE: 2025-05-20
 TITLE: Pew found White adults far more likely than other groups to say White people face discrimination
 TAGS: pew, discrimination, white, polarization
 Evidence:
-- https://www.pewresearch.org/politics/2025/05/20/views-of-how-much-discrimination-racial-and-ethnic-groups-in-the-u-s-face/
+- https://www.pewresearch.org/politics/2025/05/20/views-of-how-much-discrimination-racial-and-ethnic-groups-in-the-u-s/
 - https://www.pewresearch.org/politics/2025/05/20/how-much-discrimination-do-americans-say-groups-face-in-the-u-s/
 
 Pew also reported in May 2025 that 57% of Americans said religious people face at least some discrimination, while 57% of Republicans and 31% of Democrats said evangelical Christians face at least some discrimination. [C]
