@@ -9,11 +9,14 @@
       "navigation",
       "toc",
       "claims ledger",
-      "source posture"
+      "source posture",
+      "method",
+      "political analysis",
+      "incentive convergence"
     ],
     "summary": [
       "Landing page for humans and LLMs.",
-      "Explains the public pages, source files, internal claim markers, and the dossier's source posture."
+      "Explains the public pages, source files, internal claim markers, the dossier's source posture, and the method for reading scandals through system-level political analysis."
     ],
     "related": "[]",
     "url": "00-start-here.html"
@@ -54,11 +57,13 @@
       "status inversion",
       "epistemic capture",
       "clientelism",
-      "bureaucratic dependency"
+      "bureaucratic dependency",
+      "coordination",
+      "incentive convergence"
     ],
     "summary": [
       "Uses the agenda paper as the conceptual backbone and restores its strongest concrete points.",
-      "Frames the broader pattern as a sequence with institutional receipts, not as a pile of disconnected disputes."
+      "Frames the broader pattern as a sequence with institutional receipts, not as a pile of disconnected disputes, and explains how aligned behavior can arise through direct coordination, factional reinforcement, or incentive convergence."
     ],
     "related": [
       "04-compliance-network",
@@ -152,11 +157,12 @@
       "Covington",
       "Duke lacrosse",
       "mass graves",
-      "media panic"
+      "media panic",
+      "diversion"
     ],
     "summary": [
       "Turns the manufactured-outrage paper into a full case-study section instead of a short nod.",
-      "Shows how useful narratives are amplified fast, then corrected quietly after the damage is done."
+      "Shows how useful narratives are amplified fast, then corrected quietly after the damage is done, and explains why scandal coverage can also function as diversion from upstream institutional pressure points."
     ],
     "related": [
       "04-compliance-network",
@@ -294,11 +300,12 @@
       "accountability",
       "venue",
       "bureaucracy",
-      "statutes of limitation"
+      "statutes of limitation",
+      "inherited custody"
     ],
     "summary": [
       "Removes the Bondi-Comey framing and states the constraint logic in general form.",
-      "Explains why exposure does not automatically become conviction."
+      "Explains why exposure does not automatically become conviction, and why current visible actors are not always the main upstream cause of incomplete disclosure or stalled accountability."
     ],
     "related": [
       "10-second-term-pressure-points",
@@ -317,11 +324,12 @@
       "compliance stack",
       "clientelism",
       "Trump second term",
-      "legacy media"
+      "legacy media",
+      "method"
     ],
     "summary": [
       "One-pass compression of the rebuilt dossier with the sharper framing restored.",
-      "Ends with a direct caution against treating legacy media as neutral referees."
+      "Ends with a direct caution against treating legacy media as neutral referees and compresses the dossier's method for reading scandal narratives against upstream system behavior."
     ],
     "related": "[]",
     "url": "12-summary.html"
