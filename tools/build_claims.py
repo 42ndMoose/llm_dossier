@@ -181,7 +181,31 @@ def render_claims_html(doc_title: str, claims: list[dict]) -> str:
     body = "<p>No claims found yet.</p>" if not rows else (
         "<table border='1' cellspacing='0' cellpadding='6' style='border-collapse:collapse;width:100%'><thead><tr><th>ID</th><th>Claim</th><th>Section</th><th>Date</th><th>Title</th><th>Tags</th><th>Evidence</th><th>Links</th></tr></thead><tbody>" + '\n'.join(rows) + '</tbody></table>'
     )
-    return f"<!doctype html><html lang='en'><head><meta charset='utf-8'/><meta name='viewport' content='width=device-width, initial-scale=1'/><title>{escape(doc_title)} - Claims Ledger</title></head><body><nav>  <a href="./index.html">Index</a> |   <a href="./claims.html">Claims</a> |   <a href="./timeline.html">Timeline</a> |   <a href="./source.html">Source</a></nav><main><h1>Claims Ledger</h1><p>Internal [C] markers are build scaffolding. They do not appear on the public section pages.</p><ul><li><a href='./claims.json'>claims.json</a></li><li><a href='./claims.min.json'>claims.min.json</a></li></ul>{body}</main></body></html>"
+    return f"""<!doctype html>
+<html lang='en'>
+<head>
+  <meta charset='utf-8'/>
+  <meta name='viewport' content='width=device-width, initial-scale=1'/>
+  <title>{escape(doc_title)} - Claims Ledger</title>
+</head>
+<body>
+  <nav>
+    <a href='./index.html'>Index</a> |
+    <a href='./claims.html'>Claims</a> |
+    <a href='./timeline.html'>Timeline</a> |
+    <a href='./source.html'>Source</a>
+  </nav>
+  <main>
+    <h1>Claims Ledger</h1>
+    <p>Internal [C] markers are build scaffolding. They do not appear on the public section pages.</p>
+    <ul>
+      <li><a href='./claims.json'>claims.json</a></li>
+      <li><a href='./claims.min.json'>claims.min.json</a></li>
+    </ul>
+    {body}
+  </main>
+</body>
+</html>"""
 
 
 def main(src: str, outdir: str) -> None:
