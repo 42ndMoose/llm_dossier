@@ -36,6 +36,8 @@ Evidence:
 
 That matters because the outlets that most loudly market themselves as neutral fact-settlers were also willing to join an explicit cross-platform, cross-newsroom anti-disinformation coordination structure.
 
+This is also where expertise gets weaponized at scale. The same institutions that present themselves as neutral arbiters of truth also help define the taxonomies of harm, misinformation, hate, and legitimacy that downstream platforms and advertisers then enforce.
+
 4.2 EIP, Virality Project, and DFRLab
 
 The Election Integrity Partnership's final-report pages describe EIP as a coalition of Stanford Internet Observatory, the University of Washington's Center for an Informed Public, Graphika, and the Atlantic Council's DFRLab. [C]
@@ -77,6 +79,21 @@ Evidence:
 - https://wb01.wfanet.org/knowledge/item/2022/06/17/GARM-Brand-Safety-Floor--Suitability-Framework-3.html
 - https://wb01.wfanet.org/GARMadjacency.html
 - https://wb01.wfanet.org/knowledge/item/2022/06/17/GARM-Brand-Safety-Floor--Suitability-Framework-3
+
+
+YouTube's hate-speech policy explicitly treats immigration status, religion, sex, gender, sexual orientation, race, ethnicity, nationality, disability, and caste as protected-group categories, prohibits conspiratorial claims that protected groups are evil, corrupt, or malicious, and warns that monetization penalties can follow repeated targeting. [C]
+TITLE: YouTube's hate policy shows how protected-category enforcement extends past removal into monetization
+TAGS: youtube, hate-speech, monetization, protected-groups
+Evidence:
+- https://support.google.com/youtube/answer/2801939?hl=en
+
+The House Judiciary Committee's published GARM appendix shows the framework treated behavior or content that vilifies or dehumanizes groups based on race, ethnicity, gender, sexual orientation, gender identity, nationality, religion, caste, victims of violent acts, immigration status, and serious disease as harmful content, while also listing debated sensitive social issue and misinformation as monetization-sensitive categories. [C]
+DATE: 2024-07-10
+TITLE: The published GARM appendix showed just how broad the protected-category and monetization taxonomy was
+TAGS: garm, judiciary, harmful-content, misinformation, immigration-status
+Evidence:
+- https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/GARMReportFinalAppendix.pdf
+- https://judiciary.house.gov/media/press-releases/how-worlds-biggest-brands-seek-control-online-speech
 
 The agenda paper's broader point is that once speech rules, advertiser controls, platform policies, and governance standards point in the same direction, narrative laundering becomes operational rather than merely rhetorical.
 

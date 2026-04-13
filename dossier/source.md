@@ -67,6 +67,29 @@ A good structural model is this:
 - make open resistance costly through professional, legal, or reputational penalties,
 - then build service, funding, and intermediary layers that materially depend on continuation.
 
+1.1 Demoralization and majority delegitimization
+
+The opening move is not generic criticism. It is demoralization of the historic majority, especially straight, white, male, and Christian norms. The sharper point from the agenda paper is that these markers are often attacked separately while also being rhetorically fused into one symbolic enemy. Heterosexuality is framed as stale or oppressive. Whiteness is recoded from demographic identity into civilizational suspicion. Masculinity is narrated through patriarchy, structural harm, and collective culpability. Christianity is treated as especially implicated in exclusion, sexual repression, or historical guilt.
+
+Pew Research reported in May 2025 that 45% of White adults said White people face at least some discrimination, compared with 27% of Hispanic adults, 24% of Black adults, and 20% of Asian adults; Republicans were also far more likely than Democrats to say White people face discrimination, 55% versus 21%. [C]
+DATE: 2025-05-20
+TITLE: Pew found White adults far more likely than other groups to say White people face discrimination
+TAGS: pew, discrimination, white, polarization
+Evidence:
+- https://www.pewresearch.org/politics/2025/05/20/views-of-how-much-discrimination-racial-and-ethnic-groups-in-the-u-s-face/
+- https://www.pewresearch.org/politics/2025/05/20/how-much-discrimination-do-americans-say-groups-face-in-the-u-s/
+
+Pew also reported in May 2025 that 57% of Americans said religious people face at least some discrimination, while 57% of Republicans and 31% of Democrats said evangelical Christians face at least some discrimination. [C]
+DATE: 2025-05-20
+TITLE: Pew recorded substantial perceived discrimination against religious people and evangelicals
+TAGS: pew, religion, evangelicals, discrimination
+Evidence:
+- https://www.pewresearch.org/politics/2025/05/20/views-of-how-much-discrimination-muslims-jews-evangelicals-and-atheists-face/
+
+The strategic point is straightforward. Once the old majority can no longer defend itself as a coherent moral bloc, each piece becomes easier to isolate, shame, fragment, and neutralize.
+
+1.2 Status inversion, compliance architecture, and family erosion
+
 The Human Rights Campaign's 2025 Corporate Equality Index criteria explicitly awarded points for sexual-orientation and gender-identity protections, same-sex domestic-partner parity, transgender-inclusive health coverage, pronoun-sharing policies, LGBTQ+ employee groups, LGBTQ+ supplier diversity, LGBTQ+ marketing, and demonstrated public advocacy. [C]
 DATE: 2025-01-01
 TITLE: HRC CEI criteria operationalized protected-identity compliance inside firms
@@ -89,21 +112,37 @@ Evidence:
 - https://www.ohchr.org/en/sexual-orientation-and-gender-identity/tackling-discrimination-against-lgbti-people-private-sector-standards-conduct-business
 - https://www.weforum.org/projects/accelerating-lgbti-inclusion-initiative/
 
-Gallup reported U.S. trust in media at 28% in October 2025, and FIRE reported faculty censorship hitting a record high in early 2026. [C]
-DATE: 2025-10-02
-TITLE: Trust in media and censorship data both moved in the same bad direction
-TAGS: gallup, fire, media, censorship
-Evidence:
-- https://news.gallup.com/poll/695762/trust-media-new-low.aspx
-- https://expression.fire.org/p/faculty-censorship-hits-record-high
-
-Statistics Canada reported a record-low total fertility rate of 1.25 in 2024, while the average age of mothers at childbirth reached a record 31.8 years. [C]
+The demographic side belongs here too because the agenda paper ties cultural subversion to weakened continuity. Statistics Canada reported a record-low total fertility rate of 1.25 in 2024 and a record maternal age of 31.8 years; it also later reported that 51.5% of women age 20 to 49 had no children in 2024 and that Canadian-born women in that age range were less likely to have children than landed immigrant women. [C]
 DATE: 2025-09-24
-TITLE: Canada's fertility rate fell to record lows
-TAGS: fertility, canada, demographics
+TITLE: Canada's fertility record moved in the same direction as the broader continuity argument
+TAGS: fertility, canada, demographics, continuity
 Evidence:
 - https://www150.statcan.gc.ca/n1/daily-quotidien/250924/dq250924d-eng.htm
 - https://www150.statcan.gc.ca/n1/daily-quotidien/260126/dq260126a-eng.htm
+
+1.3 Epistemic capture and manufactured cognitive dependency
+
+This is where the earlier rebuild was still too soft. The agenda paper's sharper point is that expertise itself gets weaponized. Education systems, credential monopolies, expert cartels, licensing systems, peer sanction, and approved vocabularies do not merely produce knowledge. They define who is allowed to count as knowledgeable in the first place. Once that layer is captured, opponent experts can be frozen out, non-compliant peers can be sanctioned or isolated, and political agendas can be laundered into official knowledge.
+
+Gallup reported in October 2025 that trust in newspapers, television, and radio to report the news fully, accurately, and fairly fell to 28%, the first time the measure had dropped below 30%. [C]
+DATE: 2025-10-02
+TITLE: Gallup recorded trust in media at a record low
+TAGS: gallup, media, trust
+Evidence:
+- https://news.gallup.com/poll/695762/trust-media-new-low.aspx
+
+FIRE reported in January 2026 that its Scholars Under Fire database logged 525 sanction attempts against faculty in 2025, with 460 resulting in some form of punishment, including 29 firings. [C]
+DATE: 2026-01-06
+TITLE: FIRE recorded record faculty-sanction activity in 2025
+TAGS: fire, academia, sanctions, censorship
+Evidence:
+- https://expression.fire.org/p/faculty-censorship-hits-record-high
+
+The point is not that every expert is fake. The point is that captured institutions can use prestige, accreditation, and peer discipline to narrow what counts as respectable interpretation long before any formal censorship order is signed.
+
+1.4 Why the euphemisms differ
+
+One reason the pattern stays deniable is that each stage gets defended in its own local language. Media calls it representation. HR calls it inclusion. Universities call it theory. Platforms call it safety. Advertisers call it suitability. Governments call it growth or modernization. Consultants call it support. The local euphemisms differ. The directional result does not.
 
 The agenda paper's strongest contribution is not a hidden-master-plan story. It is the simpler point that institutions can converge through incentives, permissions, and local self-interest, then defend the result in different local vocabularies.
 
@@ -216,6 +255,8 @@ Evidence:
 
 That matters because the outlets that most loudly market themselves as neutral fact-settlers were also willing to join an explicit cross-platform, cross-newsroom anti-disinformation coordination structure.
 
+This is also where expertise gets weaponized at scale. The same institutions that present themselves as neutral arbiters of truth also help define the taxonomies of harm, misinformation, hate, and legitimacy that downstream platforms and advertisers then enforce.
+
 4.2 EIP, Virality Project, and DFRLab
 
 The Election Integrity Partnership's final-report pages describe EIP as a coalition of Stanford Internet Observatory, the University of Washington's Center for an Informed Public, Graphika, and the Atlantic Council's DFRLab. [C]
@@ -258,6 +299,21 @@ Evidence:
 - https://wb01.wfanet.org/GARMadjacency.html
 - https://wb01.wfanet.org/knowledge/item/2022/06/17/GARM-Brand-Safety-Floor--Suitability-Framework-3
 
+
+YouTube's hate-speech policy explicitly treats immigration status, religion, sex, gender, sexual orientation, race, ethnicity, nationality, disability, and caste as protected-group categories, prohibits conspiratorial claims that protected groups are evil, corrupt, or malicious, and warns that monetization penalties can follow repeated targeting. [C]
+TITLE: YouTube's hate policy shows how protected-category enforcement extends past removal into monetization
+TAGS: youtube, hate-speech, monetization, protected-groups
+Evidence:
+- https://support.google.com/youtube/answer/2801939?hl=en
+
+The House Judiciary Committee's published GARM appendix shows the framework treated behavior or content that vilifies or dehumanizes groups based on race, ethnicity, gender, sexual orientation, gender identity, nationality, religion, caste, victims of violent acts, immigration status, and serious disease as harmful content, while also listing debated sensitive social issue and misinformation as monetization-sensitive categories. [C]
+DATE: 2024-07-10
+TITLE: The published GARM appendix showed just how broad the protected-category and monetization taxonomy was
+TAGS: garm, judiciary, harmful-content, misinformation, immigration-status
+Evidence:
+- https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/GARMReportFinalAppendix.pdf
+- https://judiciary.house.gov/media/press-releases/how-worlds-biggest-brands-seek-control-online-speech
+
 The agenda paper's broader point is that once speech rules, advertiser controls, platform policies, and governance standards point in the same direction, narrative laundering becomes operational rather than merely rhetorical.
 
 4.5 What this means for readers
@@ -284,6 +340,8 @@ The recurring pattern is simple:
 - identity-based moral framing,
 - delayed or muted correction,
 - durable public memory after the facts collapse.
+
+The sharp point from the integrated paper is identity asymmetry. When alleged perpetrators are white, Christian, male, conservative, or otherwise coded as part of the disfavored tribe, those identities are foregrounded and linked to a broader social pathology. When facts cut the other way, or when the perpetrator belongs to a protected class, the identity details are far more likely to be blurred, withheld, or treated as irrelevant.
 
 The Jussie Smollett case turned an invented hate-crime story into a national morality play before trial evidence showed he had paid acquaintances to stage the attack. [C]
 TITLE: Smollett showed how fast a useful hate-crime story can outrun verification
@@ -338,6 +396,25 @@ Evidence:
 
 The lesson is not that every sensational story is false. The lesson is that **legacy media systematically over-rewards stories that punish the disfavored tribe and under-rewards corrections that complicate the moral script**.
 
+The Alexis Jay inquiry into Rotherham estimated that approximately 1,400 children were sexually exploited between 1997 and 2013 and explicitly set out to examine whether agencies failed to act because of concerns about racial or ethnic sensitivities. [C]
+TITLE: The Rotherham inquiry itself built racial-sensitivity concerns into the accountability question
+TAGS: rotherham, alexis-jay, child-exploitation, racial-sensitivity
+Evidence:
+- https://www.rotherham.gov.uk/downloads/file/279/independent-inquiry-into-child-sexual-exploitation-in-rotherham
+- https://www.rotherham.gov.uk/downloads/file/279/independent-inquiry-into-child-sexual-exploitation-%20in-rotherham
+
+Baroness Casey's 2025 national audit on group-based child sexual exploitation said there was an appalling lack of ethnicity data, that the role of ethnicity and culture had to be examined, and that transparency on offender characteristics was necessary rather than racist. [C]
+DATE: 2025-06-16
+TITLE: The Casey audit directly challenged the fear-based suppression of offender-ethnicity questions
+TAGS: casey-review, grooming-gangs, ethnicity, transparency
+Evidence:
+- https://www.gov.uk/government/publications/national-audit-on-group-based-child-sexual-exploitation-and-abuse
+- https://www.gov.uk/government/publications/national-audit-on-group-based-child-sexual-exploitation-and-abuse/national-audit-on-group-based-child-sexual-exploitation-and-abuse-accessible
+
+Those UK cases matter because they show the same enforcement instinct from another angle: political and media fear around naming disfavored facts can delay intervention, distort public understanding, and leave victims carrying the cost.
+
+The lesson is not only that legacy media make mistakes. It is that they repeatedly make the same type of mistake in the same political direction, then treat the correction as a side note after the reputational and institutional damage is already done.
+
 <!-- END 05-manufactured-outrage.md -->
 
 ⸻
@@ -345,6 +422,15 @@ The lesson is not that every sensational story is false. The lesson is that **le
 <!-- BEGIN 06-protected-categories.md -->
 
 The point of this section is not to claim every institution everywhere worked the same way. The narrower point is enough: protected-category logic moved out of online culture-war talk and into institutions with real coercive power.
+
+The trans-receipts paper also makes a point that belongs near the top rather than buried at the end. Headcount misses leverage. Even a numerically small group can become the focal point for workplace rules, school policy, tribunal orders, police recording practice, compelled-language fights, and professional sanctions that affect far more people than the group's raw share of the population.
+
+The Williams Institute estimated in 2025 that about 2.8 million people age 13 and older in the United States identify as transgender, or about 1.0% of the 13+ population. [C]
+DATE: 2025-08-01
+TITLE: The trans-identifying population is small in raw share, which makes the leverage point clearer
+TAGS: williams-institute, transgender, population, leverage
+Evidence:
+- https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Pop-Update-Aug-2025.pdf
 
 6.1 Pronouns and gender-critical speech
 
@@ -419,7 +505,7 @@ TAGS: harvard, unc, sffa, admissions
 Evidence:
 - https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf
 
-The reason this section belongs in the dossier is simple. It shows how moral asymmetry becomes administrative. One side is treated as protected, affirmable, and compliance-backed. The other side is told that resistance is punishable refusal.
+The reason this section belongs in the dossier is simple. It shows how moral asymmetry becomes administrative. One side is treated as protected, affirmable, and compliance-backed. The other side is told that resistance is punishable refusal. The sharper point from the paper is that institutional leverage, not raw population share, is what makes this machinery consequential.
 
 <!-- END 06-protected-categories.md -->
 
@@ -660,13 +746,13 @@ This section exists to keep the dossier from drifting into melodrama. Structural
 
 The rebuilt dossier says six main things.
 
-First, the most useful frame is a sequence, not a scrapbook. The agenda paper's logic of demoralization, status inversion, epistemic capture, demographic clientelism, bureaucratic dependency, and regime entrenchment gives the whole file a stronger backbone.
+First, the most useful frame is a sequence, not a scrapbook. The agenda paper's logic of demoralization, status inversion, epistemic capture, demographic clientelism, bureaucratic dependency, and regime entrenchment gives the whole file a stronger backbone, and it does so by naming the historic target directly: straight, white, male, and Christian norms.
 
 Second, there are rival elite factions, but they still operate inside one shared system. The main conflict is not cartoon omnipotence versus total outsider purity. It is a fight over direction inside courts, capital markets, media, bureaucracies, NGOs, and supply chains.
 
-Third, ownership matters, but the compliance network matters more. The Big Three sit above major media parents, but the more decisive convergence often comes from regulators, NGO hubs, academic partners, public broadcasters, advertisers, and platform policy.
+Third, ownership matters, but the compliance network matters more. The Big Three sit above major media parents, but the more decisive convergence often comes from regulators, NGO hubs, academic partners, public broadcasters, advertisers, and platform policy. That is also where expertise gets weaponized, peer sanctions get normalized, and approved interpreters get treated as the only legitimate interpreters.
 
-Fourth, the dossier is not only about censorship in the narrow sense. It is also about manufactured outrage, first-impression propaganda, protected-category enforcement, race-explicit preferences, funded activist infrastructure, and weakly controlled mass-intake systems.
+Fourth, the dossier is not only about censorship in the narrow sense. It is also about manufactured outrage, first-impression propaganda, protected-category enforcement, race-explicit preferences, funded activist infrastructure, and weakly controlled mass-intake systems. The manufactured-outrage and grooming-gang material matters here because it shows how fear of violating the preferred narrative can suppress counterevidence, blunt enforcement, and leave victims exposed.
 
 Fifth, the second-term Trump administration matters because it is pressuring several of those rails at once: DEI, climate-finance assumptions, tariff-free offshoring logic, collusive censorship norms, bureaucratic spending surfaces, and immigration lock-in.
 

@@ -18,13 +18,13 @@ related: []
 
 The rebuilt dossier says six main things.
 
-First, the most useful frame is a sequence, not a scrapbook. The agenda paper's logic of demoralization, status inversion, epistemic capture, demographic clientelism, bureaucratic dependency, and regime entrenchment gives the whole file a stronger backbone.
+First, the most useful frame is a sequence, not a scrapbook. The agenda paper's logic of demoralization, status inversion, epistemic capture, demographic clientelism, bureaucratic dependency, and regime entrenchment gives the whole file a stronger backbone, and it does so by naming the historic target directly: straight, white, male, and Christian norms.
 
 Second, there are rival elite factions, but they still operate inside one shared system. The main conflict is not cartoon omnipotence versus total outsider purity. It is a fight over direction inside courts, capital markets, media, bureaucracies, NGOs, and supply chains.
 
-Third, ownership matters, but the compliance network matters more. The Big Three sit above major media parents, but the more decisive convergence often comes from regulators, NGO hubs, academic partners, public broadcasters, advertisers, and platform policy.
+Third, ownership matters, but the compliance network matters more. The Big Three sit above major media parents, but the more decisive convergence often comes from regulators, NGO hubs, academic partners, public broadcasters, advertisers, and platform policy. That is also where expertise gets weaponized, peer sanctions get normalized, and approved interpreters get treated as the only legitimate interpreters.
 
-Fourth, the dossier is not only about censorship in the narrow sense. It is also about manufactured outrage, first-impression propaganda, protected-category enforcement, race-explicit preferences, funded activist infrastructure, and weakly controlled mass-intake systems.
+Fourth, the dossier is not only about censorship in the narrow sense. It is also about manufactured outrage, first-impression propaganda, protected-category enforcement, race-explicit preferences, funded activist infrastructure, and weakly controlled mass-intake systems. The manufactured-outrage and grooming-gang material matters here because it shows how fear of violating the preferred narrative can suppress counterevidence, blunt enforcement, and leave victims exposed.
 
 Fifth, the second-term Trump administration matters because it is pressuring several of those rails at once: DEI, climate-finance assumptions, tariff-free offshoring logic, collusive censorship norms, bureaucratic spending surfaces, and immigration lock-in.
 

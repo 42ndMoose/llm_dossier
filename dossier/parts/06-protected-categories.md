@@ -19,6 +19,15 @@ related:
 
 The point of this section is not to claim every institution everywhere worked the same way. The narrower point is enough: protected-category logic moved out of online culture-war talk and into institutions with real coercive power.
 
+The trans-receipts paper also makes a point that belongs near the top rather than buried at the end. Headcount misses leverage. Even a numerically small group can become the focal point for workplace rules, school policy, tribunal orders, police recording practice, compelled-language fights, and professional sanctions that affect far more people than the group's raw share of the population.
+
+The Williams Institute estimated in 2025 that about 2.8 million people age 13 and older in the United States identify as transgender, or about 1.0% of the 13+ population. [C]
+DATE: 2025-08-01
+TITLE: The trans-identifying population is small in raw share, which makes the leverage point clearer
+TAGS: williams-institute, transgender, population, leverage
+Evidence:
+- https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Pop-Update-Aug-2025.pdf
+
 6.1 Pronouns and gender-critical speech
 
 *Meriwether v. Hartop* shows that a public university really did discipline a professor over pronouns before the Sixth Circuit revived his free-speech and free-exercise claims; the case later ended in a reported $400,000 settlement. [C]
@@ -92,4 +101,4 @@ TAGS: harvard, unc, sffa, admissions
 Evidence:
 - https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf
 
-The reason this section belongs in the dossier is simple. It shows how moral asymmetry becomes administrative. One side is treated as protected, affirmable, and compliance-backed. The other side is told that resistance is punishable refusal.
+The reason this section belongs in the dossier is simple. It shows how moral asymmetry becomes administrative. One side is treated as protected, affirmable, and compliance-backed. The other side is told that resistance is punishable refusal. The sharper point from the paper is that institutional leverage, not raw population share, is what makes this machinery consequential.
