@@ -522,36 +522,6 @@ TITLE: David Chung is a direct receipt for paid protest infrastructure
 TAGS: protest, people's-forum, david-chung
 Evidence:
 - https://www.jpost.com/diaspora/antisemitism/article-863586
-- https://www.influencewatch.org/non-profit/the-peoples-forum/---
-id: "07-money-layer-ngos"
-order: "000800"
-number: "7"
-level: 1
-title: "The money layer: NGOs, dark-money surfaces, and managed activism"
-keywords:
-  - "NGOs"
-  - "dark money"
-  - "Tides"
-  - "Soros"
-  - "The People's Forum"
-summary:
-  - "Upgrades the NGO section into a fuller map of funded activism, bail support, and propaganda-adjacent surfaces."
-  - "Connects the spending layer to the narrative-control layer instead of treating them as separate worlds."
-related:
-  - "04-compliance-network"
-  - "08-immigration-clientelism"
-  - "10-second-term-pressure-points"
----
-
-Narrative control is only half the machine. The other half is the money layer: NGOs, fiscal sponsors, grant surfaces, bail funds, consulting shells, and activist infrastructures that make supposedly spontaneous politics look far more organic than it is.
-
-This is where **astroturfing** becomes operational. What appears as spontaneous grassroots outrage is in fact coordinated, salaried, grant-funded, and reusable from above.
-
-Nate Friedman highlighted a concrete example: The People's Forum's David Chung appears in IRS-based reporting as a salaried organizer, which undercuts the claim that all high-visibility protest activity is purely volunteer and spontaneous. [C]
-TITLE: David Chung is a direct receipt for paid protest infrastructure
-TAGS: protest, people's-forum, david-chung
-Evidence:
-- https://www.jpost.com/diaspora/antisemitism/article-863586
 - https://www.influencewatch.org/non-profit/the-peoples-forum/
 
 The George Washington University Program on Extremism and congressional letters tied Neville Roy Singham's network to The People's Forum, PSL, and related anti-Israel activism, with reporting that Singham and Jodie Evans donated roughly $20 million to TPF between 2017 and 2022. [C]
