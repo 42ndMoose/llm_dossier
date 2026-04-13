@@ -1,0 +1,404 @@
+[
+  {
+    "date": "2018-05-17",
+    "title": "Atlantic Council announced Facebook partnership through DFRLab",
+    "id": "C-04-compliance-network-003",
+    "claim": "The Atlantic Council announced its DFRLab partnership with Facebook to help monitor disinformation in elections, which means a NATO-aligned think tank was plugged directly into a dominant platform's election-integrity machinery.",
+    "tags": [
+      "facebook",
+      "atlantic-council",
+      "dfrlab",
+      "elections"
+    ],
+    "note": "",
+    "section_url": "04-compliance-network.html",
+    "section_label": "4. The censorship and compliance network beyond ownership",
+    "section_num": "4",
+    "claim_url": "claims.html#C-04-compliance-network-003",
+    "claim_short": "C-04",
+    "links": [
+      "https://www.atlanticcouncil.org/news/press-releases/atlantic-councils-digital-forensic-research-lab-partners-with-facebook/",
+      "https://www.atlanticcouncil.org/commentary/article/why-were-partnering-with-facebook-on-election-integrity/",
+      "https://www.atlanticcouncil.org/our-programs/dfrlab/"
+    ]
+  },
+  {
+    "date": "2020-07-13",
+    "title": "TNI publicly described itself as a coordination node and later drew DOJ antitrust scrutiny",
+    "id": "C-04-compliance-network-001",
+    "claim": "The Trusted News Initiative is one of the cleanest coordination nodes because it was publicly described as a cross-organization partnership targeting election and later vaccine disinformation, and the U.S. Department of Justice later warned in antitrust litigation that coordinated viewpoint suppression can raise competition issues in the marketplace of ideas.",
+    "tags": [
+      "tni",
+      "coordination",
+      "election",
+      "vaccine",
+      "antitrust"
+    ],
+    "note": "The point here is public self-description plus later antitrust attention, not proof of every allegation in the underlying suit.",
+    "section_url": "04-compliance-network.html",
+    "section_label": "4. The censorship and compliance network beyond ownership",
+    "section_num": "4",
+    "claim_url": "claims.html#C-04-compliance-network-001",
+    "claim_short": "C-04",
+    "links": [
+      "https://www.ebu.ch/news/2020/07/trusted-news-initiative-steps-up-global-fight-against-disinformation-and-targets-us-presidential-election",
+      "https://www.ebu.ch/news/2020/12/trusted-news-initiative-to-combat-spread-of-harmful-vaccine-disinformation",
+      "https://www.justice.gov/opa/pr/justice-department-files-statement-interest-suppression-competition-marketplace-ideas"
+    ]
+  },
+  {
+    "date": "2021-03-02",
+    "title": "EIP formally linked Stanford, UW, Graphika, and DFRLab",
+    "id": "C-04-compliance-network-002",
+    "claim": "The Election Integrity Partnership's final-report pages describe EIP as a coalition of Stanford Internet Observatory, the University of Washington's Center for an Informed Public, Graphika, and the Atlantic Council's DFRLab.",
+    "tags": [
+      "eip",
+      "stanford",
+      "dfrlab",
+      "graphika",
+      "misinformation"
+    ],
+    "note": "",
+    "section_url": "04-compliance-network.html",
+    "section_label": "4. The censorship and compliance network beyond ownership",
+    "section_num": "4",
+    "claim_url": "claims.html#C-04-compliance-network-002",
+    "claim_short": "C-04",
+    "links": [
+      "https://www.cip.uw.edu/2021/03/02/election-integrity-partnership-final-report-long-fuse/",
+      "https://ischool.uw.edu/news/2021/03/election-integrity-partnership-releases-final-report-mis-and-disinformation"
+    ]
+  },
+  {
+    "date": "2022-06-17",
+    "title": "GARM standardized harmful-content and monetization categories across the ad ecosystem",
+    "id": "C-04-compliance-network-005",
+    "claim": "The World Federation of Advertisers described GARM as a system to reduce the availability and monetization of harmful content, and its June 2022 framework added misinformation as a monetization-sensitive category.",
+    "tags": [
+      "garm",
+      "wfa",
+      "advertisers",
+      "monetization",
+      "misinformation"
+    ],
+    "note": "",
+    "section_url": "04-compliance-network.html",
+    "section_label": "4. The censorship and compliance network beyond ownership",
+    "section_num": "4",
+    "claim_url": "claims.html#C-04-compliance-network-005",
+    "claim_short": "C-04",
+    "links": [
+      "https://wb01.wfanet.org/knowledge/item/2022/06/17/GARM-Brand-Safety-Floor--Suitability-Framework-3.html",
+      "https://wb01.wfanet.org/GARMadjacency.html",
+      "https://wb01.wfanet.org/knowledge/item/2022/06/17/GARM-Brand-Safety-Floor--Suitability-Framework-3"
+    ]
+  },
+  {
+    "date": "2024-07-10",
+    "title": "The published GARM appendix showed just how broad the protected-category and monetization taxonomy was",
+    "id": "C-04-compliance-network-007",
+    "claim": "The House Judiciary Committee's published GARM appendix shows the framework treated behavior or content that vilifies or dehumanizes groups based on race, ethnicity, gender, sexual orientation, gender identity, nationality, religion, caste, victims of violent acts, immigration status, and serious disease as harmful content, while also listing debated sensitive social issue and misinformation as monetization-sensitive categories.",
+    "tags": [
+      "garm",
+      "judiciary",
+      "harmful-content",
+      "misinformation",
+      "immigration-status"
+    ],
+    "note": "",
+    "section_url": "04-compliance-network.html",
+    "section_label": "4. The censorship and compliance network beyond ownership",
+    "section_num": "4",
+    "claim_url": "claims.html#C-04-compliance-network-007",
+    "claim_short": "C-04",
+    "links": [
+      "https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/GARMReportFinalAppendix.pdf",
+      "https://judiciary.house.gov/media/press-releases/how-worlds-biggest-brands-seek-control-online-speech"
+    ]
+  },
+  {
+    "date": "2025-01-01",
+    "title": "HRC CEI criteria operationalized protected-identity compliance inside firms",
+    "id": "C-01-system-logic-003",
+    "claim": "The Human Rights Campaign's 2025 Corporate Equality Index criteria explicitly awarded points for sexual-orientation and gender-identity protections, same-sex domestic-partner parity, transgender-inclusive health coverage, pronoun-sharing policies, LGBTQ+ employee groups, LGBTQ+ supplier diversity, LGBTQ+ marketing, and demonstrated public advocacy.",
+    "tags": [
+      "hrc",
+      "cei",
+      "lgbt",
+      "compliance",
+      "corporations"
+    ],
+    "note": "",
+    "section_url": "01-system-logic.html",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "section_num": "1",
+    "claim_url": "claims.html#C-01-system-logic-003",
+    "claim_short": "C-01",
+    "links": [
+      "https://hrc-prod-requests.s3-us-west-2.amazonaws.com/CEI-2025-Scoring-Criteria.pdf"
+    ]
+  },
+  {
+    "date": "2025-05-20",
+    "title": "Pew found White adults far more likely than other groups to say White people face discrimination",
+    "id": "C-01-system-logic-001",
+    "claim": "Pew Research reported in May 2025 that 45% of White adults said White people face at least some discrimination, compared with 27% of Hispanic adults, 24% of Black adults, and 20% of Asian adults; Republicans were also far more likely than Democrats to say White people face discrimination, 55% versus 21%.",
+    "tags": [
+      "pew",
+      "discrimination",
+      "white",
+      "polarization"
+    ],
+    "note": "",
+    "section_url": "01-system-logic.html",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "section_num": "1",
+    "claim_url": "claims.html#C-01-system-logic-001",
+    "claim_short": "C-01",
+    "links": [
+      "https://www.pewresearch.org/politics/2025/05/20/views-of-how-much-discrimination-racial-and-ethnic-groups-in-the-u-s-face/",
+      "https://www.pewresearch.org/politics/2025/05/20/how-much-discrimination-do-americans-say-groups-face-in-the-u-s/"
+    ]
+  },
+  {
+    "date": "2025-05-20",
+    "title": "Pew recorded substantial perceived discrimination against religious people and evangelicals",
+    "id": "C-01-system-logic-002",
+    "claim": "Pew also reported in May 2025 that 57% of Americans said religious people face at least some discrimination, while 57% of Republicans and 31% of Democrats said evangelical Christians face at least some discrimination.",
+    "tags": [
+      "pew",
+      "religion",
+      "evangelicals",
+      "discrimination"
+    ],
+    "note": "",
+    "section_url": "01-system-logic.html",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "section_num": "1",
+    "claim_url": "claims.html#C-01-system-logic-002",
+    "claim_short": "C-01",
+    "links": [
+      "https://www.pewresearch.org/politics/2025/05/20/views-of-how-much-discrimination-muslims-jews-evangelicals-and-atheists-face/"
+    ]
+  },
+  {
+    "date": "2025-06-16",
+    "title": "The Casey audit directly challenged the fear-based suppression of offender-ethnicity questions",
+    "id": "C-05-manufactured-outrage-010",
+    "claim": "Baroness Casey's 2025 national audit on group-based child sexual exploitation said there was an appalling lack of ethnicity data, that the role of ethnicity and culture had to be examined, and that transparency on offender characteristics was necessary rather than racist.",
+    "tags": [
+      "casey-review",
+      "grooming-gangs",
+      "ethnicity",
+      "transparency"
+    ],
+    "note": "",
+    "section_url": "05-manufactured-outrage.html",
+    "section_label": "5. Manufactured outrage and narrative laundering",
+    "section_num": "5",
+    "claim_url": "claims.html#C-05-manufactured-outrage-010",
+    "claim_short": "C-05",
+    "links": [
+      "https://www.gov.uk/government/publications/national-audit-on-group-based-child-sexual-exploitation-and-abuse",
+      "https://www.gov.uk/government/publications/national-audit-on-group-based-child-sexual-exploitation-and-abuse/national-audit-on-group-based-child-sexual-exploitation-and-abuse-accessible"
+    ]
+  },
+  {
+    "date": "2025-08-01",
+    "title": "The trans-identifying population is small in raw share, which makes the leverage point clearer",
+    "id": "C-06-protected-categories-001",
+    "claim": "The Williams Institute estimated in 2025 that about 2.8 million people age 13 and older in the United States identify as transgender, or about 1.0% of the 13+ population.",
+    "tags": [
+      "williams-institute",
+      "transgender",
+      "population",
+      "leverage"
+    ],
+    "note": "",
+    "section_url": "06-protected-categories.html",
+    "section_label": "6. Protected categories, compelled language, and race-explicit preferences",
+    "section_num": "6",
+    "claim_url": "claims.html#C-06-protected-categories-001",
+    "claim_short": "C-06",
+    "links": [
+      "https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Pop-Update-Aug-2025.pdf"
+    ]
+  },
+  {
+    "date": "2025-09-10",
+    "title": "Charlie Kirk assassination was treated as a major federal murder investigation",
+    "id": "C-10-second-term-pressure-points-008",
+    "claim": "The FBI and DOJ also treated Charlie Kirk's killing as a real political assassination event, not a rumor or internet myth.",
+    "tags": [
+      "charlie-kirk",
+      "assassination",
+      "fbi",
+      "doj"
+    ],
+    "note": "",
+    "section_url": "10-second-term-pressure-points.html",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "section_num": "10",
+    "claim_url": "claims.html#C-10-second-term-pressure-points-008",
+    "claim_short": "C-10",
+    "links": [
+      "https://www.fbi.gov/contact-us/field-offices/saltlakecity/news/reward-of-up-to-100000-for-information-leading-to-the-identification-arrest-of-individuals-in-murder-of-charlie-kirk",
+      "https://www.fbi.gov/utahvalleyshootingupdates",
+      "https://www.fbi.gov/news/speeches-and-testimony/director-patel-opening-statement-to-the-senate-committee-on-the-judiciary-091625",
+      "https://www.justice.gov/usao-nm/pr/new-mexico-teenager-charged-making-violent-online-threats"
+    ]
+  },
+  {
+    "date": "2025-09-24",
+    "title": "Canada's fertility record moved in the same direction as the broader continuity argument",
+    "id": "C-01-system-logic-006",
+    "claim": "The demographic side belongs here too because the agenda paper ties cultural subversion to weakened continuity. Statistics Canada reported a record-low total fertility rate of 1.25 in 2024 and a record maternal age of 31.8 years; it also later reported that 51.5% of women age 20 to 49 had no children in 2024 and that Canadian-born women in that age range were less likely to have children than landed immigrant women.",
+    "tags": [
+      "fertility",
+      "canada",
+      "demographics",
+      "continuity"
+    ],
+    "note": "",
+    "section_url": "01-system-logic.html",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "section_num": "1",
+    "claim_url": "claims.html#C-01-system-logic-006",
+    "claim_short": "C-01",
+    "links": [
+      "https://www150.statcan.gc.ca/n1/daily-quotidien/250924/dq250924d-eng.htm",
+      "https://www150.statcan.gc.ca/n1/daily-quotidien/260126/dq260126a-eng.htm"
+    ]
+  },
+  {
+    "date": "2025-10-02",
+    "title": "Gallup recorded trust in media at a record low",
+    "id": "C-01-system-logic-007",
+    "claim": "Gallup reported in October 2025 that trust in newspapers, television, and radio to report the news fully, accurately, and fairly fell to 28%, the first time the measure had dropped below 30%.",
+    "tags": [
+      "gallup",
+      "media",
+      "trust"
+    ],
+    "note": "",
+    "section_url": "01-system-logic.html",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "section_num": "1",
+    "claim_url": "claims.html#C-01-system-logic-007",
+    "claim_short": "C-01",
+    "links": [
+      "https://news.gallup.com/poll/695762/trust-media-new-low.aspx"
+    ]
+  },
+  {
+    "date": "2025-12-24",
+    "title": "DOJ formalized the Guardsmen shooting as a federal case with added charges",
+    "id": "C-10-second-term-pressure-points-006",
+    "claim": "The DOJ charged Rahmanullah Lakanwal in the ambush-style shooting near the White House that killed National Guardsman Sarah Beckstrom and seriously injured National Guardsman Andrew Wolfe.",
+    "tags": [
+      "national-guard",
+      "washington-dc",
+      "firearms",
+      "doj"
+    ],
+    "note": "",
+    "section_url": "10-second-term-pressure-points.html",
+    "section_label": "10. What the second-term Trump administration is actually hitting",
+    "section_num": "10",
+    "claim_url": "claims.html#C-10-second-term-pressure-points-006",
+    "claim_short": "C-10",
+    "links": [
+      "https://www.justice.gov/usao-dc/pr/afghan-national-charged-murder-national-guard-soldier-sarah-beckstrom",
+      "https://www.justice.gov/usao-dc/pr/new-federal-charges-killing-national-guardsman-sarah-beckstrom-and-shooting-guardsman",
+      "https://www.justice.gov/usao-dc/pr/lakanwal-newly-indicted-shooting-guardsmen-near-white-house-killed-sarah-beckstrom-0"
+    ]
+  },
+  {
+    "date": "2026-01-01",
+    "title": "HRC reported a 65 percent collapse in Fortune 500 participation",
+    "id": "C-01-system-logic-004",
+    "claim": "The Human Rights Campaign's 2026 CEI reporting page said Fortune 500 participation fell by 65%, from 377 companies in 2025 to 131 in 2026, which shows both that the architecture was real and that retreat from it became measurable under pressure.",
+    "tags": [
+      "hrc",
+      "cei",
+      "retreat",
+      "corporations"
+    ],
+    "note": "",
+    "section_url": "01-system-logic.html",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "section_num": "1",
+    "claim_url": "claims.html#C-01-system-logic-004",
+    "claim_short": "C-01",
+    "links": [
+      "https://reports.hrc.org/corporate-equality-index-2026"
+    ]
+  },
+  {
+    "date": "2026-01-01",
+    "title": "OHCHR and WEF-linked initiatives treated identity compliance as business governance",
+    "id": "C-01-system-logic-005",
+    "claim": "The UN Standards of Conduct for Business and the WEF-linked Partnership for Global LGBTI Equality both pushed firms beyond internal HR policy and toward public advocacy and supply-chain enforcement.",
+    "tags": [
+      "ohchr",
+      "wef",
+      "pgle",
+      "business",
+      "governance"
+    ],
+    "note": "",
+    "section_url": "01-system-logic.html",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "section_num": "1",
+    "claim_url": "claims.html#C-01-system-logic-005",
+    "claim_short": "C-01",
+    "links": [
+      "https://www.ohchr.org/en/sexual-orientation-and-gender-identity/tackling-discrimination-against-lgbti-people-private-sector-standards-conduct-business",
+      "https://www.weforum.org/projects/accelerating-lgbti-inclusion-initiative/"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "title": "FIRE recorded record faculty-sanction activity in 2025",
+    "id": "C-01-system-logic-008",
+    "claim": "FIRE reported in January 2026 that its Scholars Under Fire database logged 525 sanction attempts against faculty in 2025, with 460 resulting in some form of punishment, including 29 firings.",
+    "tags": [
+      "fire",
+      "academia",
+      "sanctions",
+      "censorship"
+    ],
+    "note": "",
+    "section_url": "01-system-logic.html",
+    "section_label": "1. System logic: narrative inversion, dependency, and entrenchment",
+    "section_num": "1",
+    "claim_url": "claims.html#C-01-system-logic-008",
+    "claim_short": "C-01",
+    "links": [
+      "https://expression.fire.org/p/faculty-censorship-hits-record-high"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "title": "Larry Fink is listed as WEF interim co-chair",
+    "id": "C-02-elite-factions-001",
+    "claim": "The World Economic Forum's own governance pages identify Larry Fink as Interim Co-Chair of the Forum, which is one of the clearest documented overlaps between the WEF governance layer and the BlackRock ownership layer.",
+    "tags": [
+      "wef",
+      "larry-fink",
+      "blackrock",
+      "governance"
+    ],
+    "note": "",
+    "section_url": "02-elite-factions.html",
+    "section_label": "2. Elite factions inside one shared system",
+    "section_num": "2",
+    "claim_url": "claims.html#C-02-elite-factions-001",
+    "claim_short": "C-02",
+    "links": [
+      "https://www.weforum.org/about/leadership-and-governance",
+      "https://www.weforum.org/communities/board-of-trustees/",
+      "https://www.weforum.org/press/2025/08/statement-from-interim-co-chairs-of-the-world-economic-forum/"
+    ]
+  }
+]
