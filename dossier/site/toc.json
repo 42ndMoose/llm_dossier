@@ -133,11 +133,14 @@
       "Virality Project",
       "DFRLab",
       "IFCN",
+      "Poynter",
+      "PolitiFact",
+      "Google News Initiative",
       "GARM"
     ],
     "summary": [
-      "Restores the named censorship stack in full: TNI, EIP, DFRLab, IFCN, GARM, regulators, and platform policy.",
-      "Frames legacy media as participants in a coordinated compliance regime, not neutral observers of it."
+      "Restores the named censorship stack in full: TNI, EIP, DFRLab, IFCN, Poynter, PolitiFact, GARM, regulators, and platform policy.",
+      "Adds the Poynter/IFCN funding and platform-enforcement overlap while avoiding the weaker claim that donors directly command individual ratings."
     ],
     "related": [
       "05-manufactured-outrage",
