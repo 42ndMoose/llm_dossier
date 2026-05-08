@@ -10,10 +10,13 @@ keywords:
   - "Virality Project"
   - "DFRLab"
   - "IFCN"
+  - "Poynter"
+  - "PolitiFact"
+  - "Google News Initiative"
   - "GARM"
 summary:
-  - "Restores the named censorship stack in full: TNI, EIP, DFRLab, IFCN, GARM, regulators, and platform policy."
-  - "Frames legacy media as participants in a coordinated compliance regime, not neutral observers of it."
+  - "Restores the named censorship stack in full: TNI, EIP, DFRLab, IFCN, Poynter, PolitiFact, GARM, regulators, and platform policy."
+  - "Adds the Poynter/IFCN funding and platform-enforcement overlap while avoiding the weaker claim that donors directly command individual ratings."
 related:
   - "05-manufactured-outrage"
   - "06-protected-categories"
@@ -57,17 +60,57 @@ Evidence:
 - https://www.atlanticcouncil.org/commentary/article/why-were-partnering-with-facebook-on-election-integrity/
 - https://www.atlanticcouncil.org/our-programs/dfrlab/
 
-4.3 IFCN and fact-check enforcement
+4.3 IFCN, Poynter, donor overlap, and fact-check enforcement
 
-Facebook's third-party fact-checking program relied on IFCN-certified organizations, and Poynter's own materials confirmed that IFCN signatory status was a minimum condition for verification on the platform. [C]
+Facebook's third-party fact-checking program relied on IFCN-certified organizations, and Poynter's own materials confirmed that IFCN signatory status was a minimum condition for verification on the platform. IFCN's archived "code and platforms" page made the same structural point: being a signatory was a necessary, though not sufficient, condition for access to Facebook's fact-checking tool, while Google highlighted fact checks produced by code signatories in search results. [C]
 TITLE: IFCN served as a gateway into platform fact-checking enforcement
-TAGS: ifcn, poynter, facebook, meta, fact-checking
+TAGS: ifcn, poynter, facebook, meta, google, fact-checking
 Evidence:
 - https://about.fb.com/news/2019/06/inside-feed-full-fact-interview/
 - https://www.poynter.org/fact-checking/2016/facebook-has-a-plan-to-fight-fake-news-heres-where-we-come-in/
-- https://www.ifcncodeofprinciples.poynter.org/signatories
+- https://ifcncodeofprinciples.poynter.org/signatories
+- https://mail.ifcncodeofprinciples.poynter.org/know-more/the-code-and-the-platforms
 
-That pipeline matters because it turns "independent fact-checking" into a policy trigger: label, downrank, demonetize, or limit distribution.
+IFCN is not a loose label floating outside the institution. The IFCN Code of Principles site identifies the International Fact-Checking Network as a unit of the Poynter Institute and says signatories are evaluated for nonpartisanship and fairness, transparency of sources, transparency of funding and organization, transparency of methodology, and corrections practices. [C]
+TITLE: IFCN sits inside Poynter and formalizes a certification layer for fact-checkers
+TAGS: ifcn, poynter, certification, fact-checking
+Evidence:
+- https://ifcncodeofprinciples.poynter.org/
+- https://ifcncodeofprinciples.poynter.org/signatories
+- https://ifcncodeofprinciples.poynter.org/the-commitments
+
+The funding layer matters. Google and YouTube announced a $13.2 million grant to IFCN at Poynter to launch the Global Fact Check Fund, supporting a network of 135 fact-checking organizations across 65 countries and more than 80 languages. PolitiFact's own funding page says Poynter acquired PolitiFact in 2018 and lists Meta and TikTok among organizations contributing more than 5% of PolitiFact revenue in the previous calendar year. [C]
+DATE: 2022-11-29
+TITLE: Big Tech money sat inside the same fact-checking infrastructure it later relied on
+TAGS: google, youtube, ifcn, poynter, politifact, meta, tiktok, funding
+NOTE: This claim covers documented overlap and structural conflict. It does not claim that donors directly dictated every individual rating.
+Evidence:
+- https://blog.google/company-news/outreach-and-initiatives/google-news-initiative/how-google-and-youtube-are-investing-in-fact-checking/
+- https://www.poynter.org/fact-checking/2022/google-and-youtube-partner-with-poynters-international-fact-checking-network-on-13-2-million-grant-for-the-global-fact-checking-community/
+- https://www.politifact.com/who-pays-for-politifact/
+- https://www.poynter.org/major-funders/
+
+That pipeline matters because it turns "independent fact-checking" into a policy trigger: label, downrank, demonetize, or limit distribution. The donor and platform overlap adds a second problem: the same institutions that fund, certify, distribute, or enforce fact-checking can also benefit from fact-checking becoming a platform-policy trigger.
+
+The clean caveat is important. This does not prove direct donor command over every fact-check. It proves a structural conflict-of-interest and incentive problem strong enough that branded fact-checking should not be treated as a neutral endpoint on contested political questions.
+
+The program also changed. Meta said in January 2025 that it was ending its U.S. third-party fact-checking program and moving to Community Notes, arguing that the old system had created too many mistakes, labels, reduced distribution, and fact-checker bias problems. The historical point remains: IFCN-style certification had already functioned as a gate into major platform enforcement before Meta began unwinding the U.S. version. [C]
+DATE: 2025-01-07
+TITLE: Meta's 2025 shift confirmed that fact-check enforcement had become institutionally contested
+TAGS: meta, facebook, fact-checking, community-notes, platform-policy
+Evidence:
+- https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/
+- https://about.fb.com/news/2025/03/testing-begins-community-notes-facebook-instagram-threads/
+
+The outcome asymmetry is also documented enough to deserve mention without overclaiming. PolitiFact-focused studies and analyses have found different Republican-versus-Democrat false-rating patterns and heterogeneity among fact-checkers, while journalist-survey work shows that U.S. newsrooms are politically unrepresentative, with the 2022 American Journalist study reporting only 3.4% of full-time journalists identifying as Republican. [C]
+TITLE: Fact-checking and newsroom data show measurable asymmetries, even when selection effects remain contested
+TAGS: politifact, journalists, asymmetry, selection-bias
+NOTE: These sources support asymmetry and incentive-risk claims. They do not by themselves prove that every rating difference is caused by partisan bias.
+Evidence:
+- https://dukespace.lib.duke.edu/bitstreams/95100bba-7bfd-4fce-83e8-eb6b5b508bf4/download
+- https://cmpa.gmu.edu/study-media-fact-checker-says-republicans-lie-more/
+- https://smartpolitics.lib.umn.edu/2011/02/10/selection-bias-politifact-rate/
+- https://www.theamericanjournalist.org/post/american-journalist-findings
 
 4.4 GARM and advertiser enforcement
 
